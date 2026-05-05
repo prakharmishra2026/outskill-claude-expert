@@ -1,0 +1,4730 @@
+WEBVTT
+
+1
+00:00:41.240 --> 00:00:42.720
+Audio shared by Nitya Outskill Team: Race!
+
+2
+00:00:46.380 --> 00:00:48.200
+Audio shared by Nitya Outskill Team: new, generic!
+
+3
+00:00:53.510 --> 00:00:54.300
+Audio shared by Nitya Outskill Team: July!
+
+4
+00:01:03.290 --> 00:01:05.680
+Audio shared by Nitya Outskill Team: Guys! Stay ahead!
+
+5
+00:01:43.910 --> 00:01:45.580
+Audio shared by Nitya Outskill Team: Every keystroke!
+
+6
+00:01:46.000 --> 00:01:47.300
+Audio shared by Nitya Outskill Team: I feel too slow!
+
+7
+00:01:58.330 --> 00:01:59.149
+Audio shared by Nitya Outskill Team: We are doing this!
+
+8
+00:02:02.440 --> 00:02:03.380
+Audio shared by Nitya Outskill Team: After the rest!
+
+9
+00:02:04.110 --> 00:02:07.660
+Audio shared by Nitya Outskill Team: Shine bright enough, I'll stay ahead.
+
+10
+00:03:04.210 --> 00:03:09.760
+Audio shared by Nitya Outskill Team: Outskill the rest! Give it your own!
+
+11
+00:03:10.740 --> 00:03:13.279
+Audio shared by Nitya Outskill Team: Give it your back!
+
+12
+00:03:14.450 --> 00:03:15.150
+Audio shared by Nitya Outskill Team: Push the lead!
+
+13
+00:04:04.800 --> 00:04:19.220
+Audio shared by Nitya Outskill Team: Underneath the glow of a thousand dreams You're reaching higher, bursting at the seas A spark ignites!
+
+14
+00:04:19.940 --> 00:04:22.329
+Audio shared by Nitya Outskill Team: It's more than just a star.
+
+15
+00:04:24.600 --> 00:04:26.990
+Audio shared by Nitya Outskill Team: Two weeks, a hundred hours of fun.
+
+16
+00:04:27.660 --> 00:04:28.630
+Audio shared by Nitya Outskill Team: in your heart.
+
+17
+00:04:31.350 --> 00:04:38.040
+Audio shared by Nitya Outskill Team: And every step… Every truck… Is a ladder to the sky.
+
+18
+00:04:42.840 --> 00:04:43.530
+Audio shared by Nitya Outskill Team: Shinin!
+
+19
+00:05:15.720 --> 00:05:25.259
+Audio shared by Nitya Outskill Team: In the quiet hour When the world's asleep Building bridges wide.
+
+20
+00:05:25.480 --> 00:05:27.219
+Audio shared by Nitya Outskill Team: You're diving deep.
+
+21
+00:05:31.960 --> 00:05:32.640
+Audio shared by Nitya Outskill Team: In yours!
+
+22
+00:05:36.120 --> 00:05:36.959
+Audio shared by Nitya Outskill Team: The future!
+
+23
+00:06:11.360 --> 00:06:12.390
+Dileep Karri: Hello, folks?
+
+24
+00:06:16.310 --> 00:06:18.300
+Dileep Karri: A familiar face is back.
+
+25
+00:06:26.640 --> 00:06:28.520
+Dileep Karri: Hi, hi, everyone. So…
+
+26
+00:06:29.210 --> 00:06:42.170
+Dileep Karri: Yeah, I'm good, I'm good. It has been a little tough, December, overall. I think I mentioned the group, and, you know, really appreciate, I got a lot of messages of support,
+
+27
+00:06:42.390 --> 00:06:47.290
+Dileep Karri: over DMs, but at that point, I was not in a position to kind of respond overall.
+
+28
+00:06:47.430 --> 00:06:57.249
+Dileep Karri: But thanks, thanks for all the vote, thanks for all the support, over here. I've been in touch, I've been figuring out what's happening. Forgive my hair, I don't know why it became like this.
+
+29
+00:06:57.510 --> 00:07:08.559
+Dileep Karri: A little bit. Anyways, so, what we are going to do, in today's session and, the coming session a little bit is,
+
+30
+00:07:08.560 --> 00:07:19.409
+Dileep Karri: you know, we are going to get into Cloud Code. How many of you have been seeing the buzz around Cloud Code, wondering what's happening out there, what is, you know.
+
+31
+00:07:19.820 --> 00:07:26.000
+Dileep Karri: what is the mystery behind that, etc, all that. How many have been kind of,
+
+32
+00:07:26.570 --> 00:07:31.070
+Dileep Karri: Oh, some people are using it, actually, okay? For those of you using it, maybe…
+
+33
+00:07:32.410 --> 00:07:42.830
+Dileep Karri: You know, for those of you who are using it, maybe it will be a little repetition for this session. The next session that I'll do, I will, you know, kind of…
+
+34
+00:07:43.820 --> 00:07:45.850
+Dileep Karri: I'll show you some more advanced stuff.
+
+35
+00:07:47.420 --> 00:07:59.819
+Dileep Karri: Okay, so I will go from very basics into some advanced workflows with Cloud Code, because I think you have experienced almost a quarter century of
+
+36
+00:08:00.420 --> 00:08:12.099
+Dileep Karri: you know, sessions overall, so we'll get into some pretty ******** stuff going on. For example, I am planning to teach you guys how to make a video from Cloud Code. That'll be cool, right?
+
+37
+00:08:13.870 --> 00:08:28.959
+Dileep Karri: How do you make a video from Cloud Code? Today, I will… today will be more of the setting of the stage, and you know, I will tell you how do you build stuff, and the next session is going to be more advanced.
+
+38
+00:08:28.960 --> 00:08:41.000
+Dileep Karri: Today, I'll just give you a teaser of how you can think of building it, what are the tools required, so that you can kind of go through it in the next session that we do. I will actually try to build it, or maybe today also, I don't know. I'll just,
+
+39
+00:08:41.140 --> 00:08:44.040
+Dileep Karri: You know, figure it out, and, you know, try to,
+
+40
+00:08:44.080 --> 00:08:52.560
+Dileep Karri: you know, show you multiple things overall. And mainly, what I'm going to show today is little cutting-edge stuff.
+
+41
+00:08:52.560 --> 00:09:05.220
+Dileep Karri: So, anytime you guys feel that it is going very fast, or, you know, it is getting a little bit complex, do alert me, and I'm happy to
+
+42
+00:09:05.220 --> 00:09:14.140
+Dileep Karri: you know, kind of, revise or rewind a little bit, because, what I will do is, I will go slow on the basics.
+
+43
+00:09:14.330 --> 00:09:29.279
+Dileep Karri: A little bit, and then I will go deeper and deeper. So, one trick, so I'll tell you, the entire December, right, I have been away from AI, okay? There were a few things happening, so I was just completely disconnected with AI.
+
+44
+00:09:29.280 --> 00:09:47.509
+Dileep Karri: And, you know, went home, came back, and everything. And, not Vipassana, something else, maybe some other time I'll talk about it. But I came back, and when I started from scratch, right, what I realized, one major realization that had come to me is.
+
+45
+00:09:47.850 --> 00:10:12.430
+Dileep Karri: follow the curiosity, because after the gap, when I came back, when I opened, there were a lot of hype stuff which was happening, okay? There was a lot of hypey stuff that we… it was happening, and because of that hype-y stuff happening, right, I felt, okay, you know what, I think I need to go a different manner, and that's where I started a different approach, that is chasing the curiosity.
+
+46
+00:10:13.070 --> 00:10:31.550
+Dileep Karri: Okay, just chasing curiosity, just doing weird things, etc. And that kind of opened up a very different kind of a thing, and which I think I will, over the next few two sessions, I will talk to you about that approach, because that really, kind of, helped me, very well to, you know.
+
+47
+00:10:31.550 --> 00:10:38.439
+Dileep Karri: Put things together, Properly. What I mean is, when that hype stuff kind of,
+
+48
+00:10:38.690 --> 00:10:45.619
+Dileep Karri: comes, right? When I did a lot of experiments with that, I could actually go through the hype.
+
+49
+00:10:46.770 --> 00:10:52.700
+Dileep Karri: How many of you have seen Twitter today, overall, and saw this thing called ClaudeBot?
+
+50
+00:10:54.720 --> 00:11:12.489
+Dileep Karri: Anybody seeing ClaudeBot, ClaudeBot, everybody is talking about CloudBot, right? So, I have seen it, and I think I'll wait for a week, I'll test out for a week, and if I really like it, I will show you guys, okay? The concept looks good, but
+
+51
+00:11:12.720 --> 00:11:14.030
+Dileep Karri: after…
+
+52
+00:11:14.980 --> 00:11:23.549
+Dileep Karri: You know, seeing AI for so long, and when I, after a break, re-approached AI, I kind of felt that something,
+
+53
+00:11:24.160 --> 00:11:35.699
+Dileep Karri: beyond the hype is what I saw. For example, I was just going through a rabbit hole about automations, okay, to understand what automations work, etc.
+
+54
+00:11:35.700 --> 00:11:45.729
+Dileep Karri: And, I guess, I think Reddit is a great place. All of your reading on Reddit, right, N8 and all those Reddit threads, you have to keep reading, okay? That's a great…
+
+55
+00:11:45.730 --> 00:11:52.349
+Dileep Karri: place for good discussions, and I saw one of the discussions on Reddit about automation.
+
+56
+00:11:52.400 --> 00:11:53.740
+Dileep Karri: So…
+
+57
+00:11:53.890 --> 00:12:06.650
+Dileep Karri: You know, I've mentioned this before also, but I think I practically saw this. One person was talking about how he designs automations, which was a very refreshing change of pace. So what he tells is.
+
+58
+00:12:06.870 --> 00:12:12.850
+Dileep Karri: He tries to understand what is the current process and live in the process of the client.
+
+59
+00:12:13.280 --> 00:12:28.289
+Dileep Karri: Okay? So, I'm just giving you some, initial thoughts, and, you know, maybe in 7.45ish, I will actually start with the session, okay? Cool, guys? Because I thought early birds should get some additional GAM.
+
+60
+00:12:33.780 --> 00:12:40.060
+Dileep Karri: Okay? So, what this person was telling is, you should live Right.
+
+61
+00:12:40.170 --> 00:12:42.720
+Dileep Karri: I think the… Yep.
+
+62
+00:12:45.230 --> 00:12:47.829
+Dileep Karri: So it should live in the process of the client.
+
+63
+00:12:52.410 --> 00:12:59.650
+Dileep Karri: Okay, so what does this actually mean? Okay, some, a very important, you know, distinction,
+
+64
+00:13:00.030 --> 00:13:10.589
+Dileep Karri: what I'm doing. So, this particular person was talking to his client and, you know, trying to figure out a few things, and then they said that, you know, fixing appointments is a pain.
+
+65
+00:13:11.130 --> 00:13:21.830
+Dileep Karri: Okay? So when you say fixing appointments is a pain, right, you will, you know, kind of, say that the first solution they proposed was Calendly.
+
+66
+00:13:22.140 --> 00:13:25.969
+Dileep Karri: Use Calendly, and then it will work.
+
+67
+00:13:26.590 --> 00:13:28.360
+Dileep Karri: But, you know, it backfired.
+
+68
+00:13:29.220 --> 00:13:42.430
+Dileep Karri: Okay? This approach backfired. Why did it backfire? It's because the client's process of fixing appointments was, go to WhatsApp, check the timings that are available.
+
+69
+00:13:42.430 --> 00:13:49.300
+Dileep Karri: And, based on the timings, they decide, okay, mutual timing, and then they just go and visit it, etc, all that.
+
+70
+00:13:49.990 --> 00:13:57.770
+Dileep Karri: Okay? That's how this process works. So, when you say Calendly, it's a very different process from the original process.
+
+71
+00:13:58.590 --> 00:14:02.879
+Dileep Karri: Okay, so what is happening is, your client has an original process.
+
+72
+00:14:04.490 --> 00:14:06.839
+Dileep Karri: And you're proposing a new process.
+
+73
+00:14:09.150 --> 00:14:27.240
+Dileep Karri: So what is happening? You are getting new friction points into your client's process, so whatever solution you're doing, the client is not adopting. Not because they don't want to, it's because they are so much used to what they were doing originally that it finds difficult. So then he changed the approach.
+
+74
+00:14:27.410 --> 00:14:30.120
+Dileep Karri: And… did a WhatsApp bot.
+
+75
+00:14:33.240 --> 00:14:51.550
+Dileep Karri: a simple WhatsApp bot, which can stay in WhatsApp, and when any time discussions happen on the WhatsApp, when people agree on a time, the client just has to tell the bot, hey, bot, fix the time as agreed, and the calendar is blocked.
+
+76
+00:14:51.720 --> 00:15:02.589
+Dileep Karri: So that means, from the WhatsApp itself, you're doing… so basically what you're doing is, you are living in the process of the client. What is their current process? Understanding the friction points, and make it simple.
+
+77
+00:15:03.070 --> 00:15:23.289
+Dileep Karri: Don't try to change the process, because when you try to change the process, right, it becomes very hard. Eventually, you can do that. Like, eventually you can tell them that Calendly is a better tool, you can do this, you can do that, etc. But for the initial value to kind of do that, you have to live in the process of the client, and therefore.
+
+78
+00:15:23.290 --> 00:15:32.740
+Dileep Karri: One good thing, like, because all of you, I saw some snippets of yesterday's presentations, and all of you have already started on your journey.
+
+79
+00:15:32.750 --> 00:15:41.489
+Dileep Karri: Right? So, when you are offering, or when you're talking to clients, right, before you go anywhere, first, understand how your client does stuff.
+
+80
+00:15:41.540 --> 00:16:00.420
+Dileep Karri: Don't follow what your client does. Like, client will tell you, I need help with this. Don't entertain that conversation, or at least listen to it, but insist on understanding the day-to-day of the client. Like, what exactly is the client doing step-by-step, what are they going to understand, etc, so that you can actually work
+
+81
+00:16:00.470 --> 00:16:17.969
+Dileep Karri: on the client, you know, what is it that you're looking for. So this is a great insight that I found, which I thought I would share with you. So when you are working in anything, remember this, that you have to live in the process of the client, okay? So, coming to the next part about
+
+82
+00:16:18.250 --> 00:16:29.729
+Dileep Karri: This is the first thing that I saw was a refreshing thing I wanted to share. And second thing is, you know, I saw this very neat technique called engineering as marketing.
+
+83
+00:16:33.060 --> 00:16:34.099
+Dileep Karri: Oh, nice.
+
+84
+00:16:37.540 --> 00:16:40.100
+Dileep Karri: Have you heard of this term, engineering as marketing?
+
+85
+00:16:43.090 --> 00:16:58.429
+Dileep Karri: No, right? So I'll tell you about one founder who is doing this, and I think it's a great way, and what I want is, for the next few sessions of building that we want, approach it in this manner. Okay? So what engineering as marketing means is.
+
+86
+00:16:59.460 --> 00:17:01.509
+Dileep Karri: You have a hero product.
+
+87
+00:17:04.510 --> 00:17:10.229
+Dileep Karri: Okay? Some hero product, hero agency, or hero service that you're trying to provide. Everybody has that.
+
+88
+00:17:10.420 --> 00:17:14.200
+Dileep Karri: So what, this particular founder had done was.
+
+89
+00:17:14.410 --> 00:17:21.910
+Dileep Karri: He understood what the hero product was, okay? And then, he looked at searches.
+
+90
+00:17:24.599 --> 00:17:29.310
+Dileep Karri: on the Hero product. Okay, so basically what searches were happening on the Hero product.
+
+91
+00:17:29.440 --> 00:17:33.779
+Dileep Karri: And for some of the searches, he understood tools.
+
+92
+00:17:34.650 --> 00:17:38.050
+Dileep Karri: That could make it better or amplify.
+
+93
+00:17:47.080 --> 00:17:58.259
+Dileep Karri: Yes, Banu from Starter Story. That is exactly the person I'm talking about, okay? I thought I'll reveal towards the end, after I explain everything. Thanks for bringing it up, and I'll also show you some examples of
+
+94
+00:17:58.260 --> 00:18:22.560
+Dileep Karri: what I've seen. So, you try to use tools to make it better or amplify, and what I also want to do is, in the session, as I go through the concepts, try to figure out and, you know, try to build some tools like that with all of you, so that you can also start this engineering as marketing process, where you build free tools, give it to your clients free of cost, so that they understand the value.
+
+95
+00:18:22.560 --> 00:18:24.670
+Dileep Karri: And come back for the bigger service.
+
+96
+00:18:25.090 --> 00:18:32.190
+Dileep Karri: Okay? So I'll tell you one very, good tool that I recently saw. Somebody built something called SuperDesign.
+
+97
+00:18:34.220 --> 00:18:36.769
+Dileep Karri: Okay, I hope I got the extension right.
+
+98
+00:18:37.040 --> 00:18:44.569
+Dileep Karri: Okay, or something called, okay, there is one extension, I think you'll use it very soon. It is called WizBug.
+
+99
+00:18:44.720 --> 00:18:49.310
+Dileep Karri: Okay? Very simple extension. What it does is, it…
+
+100
+00:18:49.710 --> 00:18:57.190
+Dileep Karri: when you install this thing, when you install this WizBug, okay, and it is very well trusted because it's by Google.
+
+101
+00:18:58.230 --> 00:19:01.440
+Dileep Karri: Alright? So Google has this nice,
+
+102
+00:19:01.720 --> 00:19:10.290
+Dileep Karri: culture of shipping such products. Like, some products don't make it to the roadmap. They allow their engineers to make it a Chrome extension, make it
+
+103
+00:19:11.210 --> 00:19:17.820
+Dileep Karri: their tools, and that is how Opal, etc, kind of come into place. So, WizBug kind of helps you
+
+104
+00:19:18.100 --> 00:19:23.820
+Dileep Karri: You can open up any web page, it'll tell you the color, the font, and all those details.
+
+105
+00:19:24.460 --> 00:19:39.290
+Dileep Karri: Okay, so when you're trying to get design inspirations, you can actually get the proper design inspirations, and as we discuss Cloud Code, I will try to teach Cloud Code not just as a coding tool, but as a full-stack
+
+106
+00:19:39.310 --> 00:19:54.370
+Dileep Karri: you know, full-stack company tool. What I mean is, you use Cloud Code for building your products, you can use Cloud4 code for doing a bunch of stuff, like landing page creation, marketing materials.
+
+107
+00:19:54.370 --> 00:20:03.799
+Dileep Karri: whatever problem you think, you should be able to use Cloud Code by spinning up agents slash AI employees. So that is the approach we are going to take.
+
+108
+00:20:03.800 --> 00:20:14.960
+Dileep Karri: Okay? So, we will try to follow this approach, and of engineering as marketing, and what I'll do is, let us first understand that complete picture of
+
+109
+00:20:15.030 --> 00:20:18.260
+Dileep Karri: engineering as… Marketing.
+
+110
+00:20:18.540 --> 00:20:19.630
+Dileep Karri: Banuta.
+
+111
+00:20:25.140 --> 00:20:34.589
+Dileep Karri: Okay, so, you have this, complete, thing about engineering as marketing masterclass, like a side GPT, study.
+
+112
+00:20:35.830 --> 00:20:49.830
+Dileep Karri: Okay? So, basically, SiteGPT, the problem it does is, it creates a chatbot out of your website. So you just give the website, it'll create a ready-made chatbot that will answer questions based on the website.
+
+113
+00:20:50.980 --> 00:20:51.880
+Dileep Karri: Okay.
+
+114
+00:20:54.780 --> 00:20:58.599
+Dileep Karri: Okay? So, basically, what he does is…
+
+115
+00:20:58.750 --> 00:21:04.989
+Dileep Karri: He does this engineering as marketing stuff. That means he tries to build free tools.
+
+116
+00:21:05.180 --> 00:21:15.389
+Dileep Karri: Which he thinks are very, very useful for, the core work that he's doing, and he tries to give them up, and uses that to kind of,
+
+117
+00:21:15.530 --> 00:21:27.580
+Dileep Karri: you know, build, you know, get free users, or nurture the users, make them do this, and then try to do that, okay? So I think this is the story.
+
+118
+00:21:38.600 --> 00:21:41.549
+Dileep Karri: Sorry, I lost the link.
+
+119
+00:21:56.570 --> 00:22:00.879
+Dileep Karri: Just give me a second, I had it somewhere, let me pull it up.
+
+120
+00:22:28.660 --> 00:22:29.630
+Dileep Karri: Got it.
+
+121
+00:22:31.780 --> 00:22:36.800
+Dileep Karri: So I have a brain dump, so even if I lose a link, I have a way to kind of recover it.
+
+122
+00:22:37.310 --> 00:22:38.290
+Dileep Karri: Okay?
+
+123
+00:22:38.700 --> 00:22:49.139
+Dileep Karri: So, this is the engineering as marketing strategy, and we will approach whatever we are trying to build and learn with some ideas around this, okay?
+
+124
+00:22:49.140 --> 00:23:03.430
+Dileep Karri: So, basically, the way he gets traffic is through dozens of free tools. So, basically, he has built 50 tools in total, okay? And, you know, basically, main thing he does is, he does keyword research from something like RF.
+
+125
+00:23:03.430 --> 00:23:07.459
+Dileep Karri: To figure out tool-based keywords that people are… that are related to your product.
+
+126
+00:23:07.480 --> 00:23:21.379
+Dileep Karri: Okay, it cannot be some random tool, okay? His product is about website. What are the tools on websites that people are interested about? And if you are interested, I think Nabil has put the YouTube video, you should definitely watch that.
+
+127
+00:23:21.380 --> 00:23:32.590
+Dileep Karri: Okay, it'll be helpful when we go for the upcoming sessions, but this is the complete, thing. Like, you try to use the keyword research from something like RFs to figure out the main tool-based keywords.
+
+128
+00:23:32.590 --> 00:23:52.789
+Dileep Karri: And which are related to the product. Right now, they get around 50,000 links from Google every month, almost 95% is because people are searching for the steel-free tools, and then they get 300 leads every month. Now, don't expect these results to come right away, but it's a great strategy, like, for any person or any client that you're in touch.
+
+129
+00:23:52.790 --> 00:23:57.770
+Dileep Karri: Okay? Whether they take your service or not, say, this is a free tool, you can start using it.
+
+130
+00:23:57.770 --> 00:24:04.240
+Dileep Karri: And see that you have built some analytics on top of it, so that you understand if the client is actually using your free tool or not.
+
+131
+00:24:04.330 --> 00:24:18.009
+Dileep Karri: So when you see some clients using your free tool and getting value, or daily basis, etc, you know that the problem is real, and they are very interested in kind of doing that. So then you can be in touch and try to close the deal.
+
+132
+00:24:18.440 --> 00:24:21.679
+Dileep Karri: Okay? So, what you can do is…
+
+133
+00:24:22.540 --> 00:24:34.219
+Dileep Karri: Once you… you… the first few tools are difficult, but later on become super easy. So basically, what you do is, you can go to any Keyword Explorer search.
+
+134
+00:24:34.780 --> 00:24:38.819
+Dileep Karri: on this thing, okay? I will share this thing with you.
+
+135
+00:24:39.250 --> 00:24:40.520
+Dileep Karri: on the chat.
+
+136
+00:24:42.350 --> 00:24:44.200
+Dileep Karri: Okay, so that you guys can,
+
+137
+00:24:44.300 --> 00:24:57.599
+Dileep Karri: bookmark it, and I will show you a neat way to kind of reverse engineer this process, and try to see how we can adapt this process for anything, and I will try to plug it in in today's session itself.
+
+138
+00:24:57.680 --> 00:25:08.529
+Dileep Karri: Okay? So that is the other thing, which was an epiphany to me. I think that break kind of gave me new ideas. What I've started doing, not just here, but in other sessions, is
+
+139
+00:25:08.610 --> 00:25:25.519
+Dileep Karri: Try to make it purpose-driven, okay? Cloud code, but what is the purpose of Cloud Code? What are the interesting things you can do? Some things need not be always relevant to everybody, but curiosity-driven things will germinate some new ideas. So that is the approach I'm going to take for today's session.
+
+140
+00:25:25.520 --> 00:25:32.199
+Dileep Karri: Alright, so this is the idea and everything, and where you kind of figure out, the different,
+
+141
+00:25:32.200 --> 00:25:40.769
+Dileep Karri: creators, or the different tools which you could use. And then, once you've got the tool idea, you can vipe code the tool.
+
+142
+00:25:41.900 --> 00:25:52.750
+Dileep Karri: Okay? And you can share that tool across. So that helps you to, you know, build free tools, give it to your clients, and take it forward from there. And that's an interesting way to do that.
+
+143
+00:25:53.530 --> 00:25:57.780
+Dileep Karri: Okay? So… Keeping this as…
+
+144
+00:25:58.280 --> 00:26:09.299
+Dileep Karri: you know, something that we are going to take a look at, okay? But the engineering as marketing kind of a strategy, we will now try to understand a bit about cloud code.
+
+145
+00:26:09.610 --> 00:26:14.519
+Dileep Karri: And how cloud code has become so important, number one.
+
+146
+00:26:14.900 --> 00:26:22.340
+Dileep Karri: Okay, some storyline behind that, and then its features, and how you can really squeeze the best out of it.
+
+147
+00:26:23.040 --> 00:26:34.389
+Dileep Karri: Okay, so that's what we are going to do. Before that, how many of you have started building stuff on cursor? Anybody? Yes, yes, yes, if you have started building stuff on cursor.
+
+148
+00:26:40.300 --> 00:26:41.310
+Dileep Karri: Okay?
+
+149
+00:26:42.810 --> 00:27:00.360
+Dileep Karri: Okay, cursor, I mean cursor, anti-gravity, anything else. If you're starting building stuff, great. So then I'll include how you can use Cloud Code inside Cursor also. That'll be a great plugin. Then, how many of you have seen Co-work or, you know, experienced Co-work?
+
+150
+00:27:00.710 --> 00:27:02.090
+Dileep Karri: Claude Govak?
+
+151
+00:27:06.350 --> 00:27:07.530
+Dileep Karri: Cool, okay.
+
+152
+00:27:08.860 --> 00:27:13.010
+Dileep Karri: Right, so what I'll do is, we will, try to…
+
+153
+00:27:13.010 --> 00:27:28.139
+Dileep Karri: understand this particular thing. Don't worry if you're not familiar, I will show you the different ways to do it. One thing I will tell you is, some of the stuff that we are going to do has to do with command line, okay? So, don't get scared of command line.
+
+154
+00:27:28.140 --> 00:27:35.889
+Dileep Karri: Alright, so I will try to show you a non-technical way, or I'll caution you that don't feel it is too technical, just do this.
+
+155
+00:27:35.890 --> 00:27:51.980
+Dileep Karri: So that it becomes super easy for you when you're working with Claude Code. In fact, Claude Code became viral not because of coders, but non-coders. And that is why Claude Code came up with Covert. So I'll write the story for you, okay? So…
+
+156
+00:27:52.760 --> 00:28:02.510
+Dileep Karri: Let me just first draw the story of Cloud Code, and then we will go into the features of Cloud Code, what it can do, etc, all that. So, Cloud Code, actually.
+
+157
+00:28:03.130 --> 00:28:15.880
+Dileep Karri: Originally, when it was built, it was a command line tool. Command line as in, in Mac, there is terminal. In Windows, there is PowerShell, okay? Any of you have seen this terminal or PowerShell?
+
+158
+00:28:17.630 --> 00:28:19.930
+Dileep Karri: Okay, Windows, there is PowerShell.
+
+159
+00:28:20.330 --> 00:28:27.129
+Dileep Karri: Mac, there is Terminal, okay? So these are the two main tools. Those are available for use in
+
+160
+00:28:27.430 --> 00:28:32.470
+Dileep Karri: You know, any system. So cloud code lives in the terminal.
+
+161
+00:28:32.700 --> 00:28:40.019
+Dileep Karri: Okay? So this is like a 360-degree movement, because when programming started, everybody used to do programming in the terminal.
+
+162
+00:28:41.980 --> 00:28:44.969
+Dileep Karri: Okay? There was this editor called Vim.
+
+163
+00:28:46.010 --> 00:28:47.680
+Dileep Karri: I'm not sure how many of you
+
+164
+00:28:47.800 --> 00:28:59.380
+Dileep Karri: seen this, if you have not seen it, it is okay, but in 1980s, it was very, very popular. In fact, it's the only way you could code. Vim Editor was the only way you could code.
+
+165
+00:28:59.660 --> 00:29:04.600
+Dileep Karri: Alright? So, Cloud Code kind of mimics
+
+166
+00:29:04.710 --> 00:29:09.470
+Dileep Karri: VIM, or try to, you know, kind of replicate that.
+
+167
+00:29:11.140 --> 00:29:21.769
+Dileep Karri: Alright? So it tries to replicate that, VIM, editor overall, and this became very, very…
+
+168
+00:29:22.280 --> 00:29:24.089
+Dileep Karri: Useful for coders.
+
+169
+00:29:25.980 --> 00:29:29.910
+Dileep Karri: Okay, people liked it. Initially, when Claude Code came, right?
+
+170
+00:29:30.180 --> 00:29:39.970
+Dileep Karri: Initially, when Cloud Code came… Uday, I'll ask you a question, I'll come to that, don't worry. Initially, when Cloud Code came, it was very slow, it was super buggy.
+
+171
+00:29:40.540 --> 00:29:45.330
+Dileep Karri: Okay? But what changed was… Anthropic.
+
+172
+00:29:47.750 --> 00:29:50.730
+Dileep Karri: They went all in on coding models.
+
+173
+00:29:52.860 --> 00:29:59.520
+Dileep Karri: So what happened was, OpenAI, so this is one important thing you need to understand. OpenAI and Gemini, or Google.
+
+174
+00:30:00.130 --> 00:30:05.119
+Dileep Karri: Okay? They go for… Wide range more… wide-range intelligence.
+
+175
+00:30:08.310 --> 00:30:24.000
+Dileep Karri: That means they go for image, they go for code, they go for everything, okay? They go for wide-range intelligence models. That is what they're doing, and I think right now, Google is leading in the wide-range intelligence models, okay?
+
+176
+00:30:24.140 --> 00:30:40.069
+Dileep Karri: What Anthropic decided was, they decided they are going to be completely onto coding. So they made two important decisions. They decided that they're going to go completely coding models, and they decided to focus on enterprise.
+
+177
+00:30:42.070 --> 00:30:44.209
+Dileep Karri: Two decisions that they have taken.
+
+178
+00:30:45.290 --> 00:30:47.739
+Dileep Karri: Alright? So, what this means is.
+
+179
+00:30:48.020 --> 00:30:52.079
+Dileep Karri: Claude is the most non-friendly for a personal user.
+
+180
+00:30:52.620 --> 00:31:10.859
+Dileep Karri: So what it means is, when you guys are using Claude or anything, you will see your token limit just expire very quickly. You will see that your tokens are completely gone by the end of the day. You just started, you are getting into the groove, your tokens are gone.
+
+181
+00:31:11.020 --> 00:31:12.890
+Dileep Karri: Have any of you experienced that?
+
+182
+00:31:13.120 --> 00:31:25.410
+Dileep Karri: You have all experienced that piece where your tokens are just vanishing through the roof. That is because Anthropic decided, my user is not the individual, it is the company.
+
+183
+00:31:26.660 --> 00:31:38.659
+Dileep Karri: Okay? Because of this change that they have made, Cloud Code, the anthropic models, became very good at coding. All the benchmarks, they were killing it on coding.
+
+184
+00:31:38.940 --> 00:31:44.120
+Dileep Karri: Others, they were not doing. So that is why Anthropic will never release an image model.
+
+185
+00:31:44.370 --> 00:32:01.729
+Dileep Karri: Okay? ChatGPT will keep, releasing image models, Sora video model, Google will say, video model, VO and image model, right? Google is a consumer platform. OpenAI is a consumer platform. They want as many consumers as possible.
+
+186
+00:32:01.950 --> 00:32:03.410
+Dileep Karri: Okay, Anthropic?
+
+187
+00:32:03.630 --> 00:32:05.109
+Dileep Karri: Focused niche.
+
+188
+00:32:05.670 --> 00:32:15.720
+Dileep Karri: I'm giving you all this context because when you're using the tool, you should understand the spirit in which it is built, so that you know that, okay, this is how it is, and I have to live with it.
+
+189
+00:32:16.150 --> 00:32:24.629
+Dileep Karri: So then, you, you know, questions like, you know, but Anthropic, you know, it's, context, the tokens keep expiring every day.
+
+190
+00:32:24.810 --> 00:32:28.489
+Dileep Karri: Okay? It will expire because it is designed that way.
+
+191
+00:32:29.270 --> 00:32:37.369
+Dileep Karri: Alright, so because of this, what suddenly happened is, they built this Cloud Code, Opus…
+
+192
+00:32:38.410 --> 00:32:50.620
+Dileep Karri: 4.1 was a turning point. When Opus 4.1 came, it became one of the best coding models out there, and once it became a best coding model, your cloud code performance shot up the roof.
+
+193
+00:32:52.760 --> 00:33:01.929
+Dileep Karri: And engineers all were… all the geeks, right, in companies, they felt that, okay, oh my god, this is something really cool.
+
+194
+00:33:03.050 --> 00:33:11.290
+Dileep Karri: Alright? Alright. And it started doing a bunch of stuff, became very popular. Then, from the engineers.
+
+195
+00:33:12.100 --> 00:33:20.640
+Dileep Karri: The non-tech people started exploring Cloud Code, and then suddenly.
+
+196
+00:33:21.670 --> 00:33:26.360
+Dileep Karri: it led to a huge bunch of use cases in what I call vibe Marketing.
+
+197
+00:33:28.370 --> 00:33:31.870
+Dileep Karri: Where non-technical people started adopting Cloud Code.
+
+198
+00:33:32.350 --> 00:33:41.300
+Dileep Karri: By the way, Claude Code is now at the run rate of… only Claude Code, I'm not talking Anthropic. Claude Code is at a run rate of $1 billion ARR.
+
+199
+00:33:42.140 --> 00:33:52.269
+Dileep Karri: Okay, $1 billion ARR it is doing, so they're doing pretty good, okay? And I'll tell you some fun facts. The creator of Cloud Code.
+
+200
+00:33:52.700 --> 00:33:57.350
+Dileep Karri: Boris started it as a side project. It was never meant to leave the company room.
+
+201
+00:33:57.880 --> 00:34:12.040
+Dileep Karri: The CEO just happened to ask him what are the interesting things you are doing. Boris showed that, you know, internal coding, I want to do this, and the CEO thought this is not something internal, it should go out into the world, and they released it.
+
+202
+00:34:12.590 --> 00:34:28.230
+Dileep Karri: Okay? And right now, every cloud development happens with Cloud Code only. So it's a very dog-fooded product. That is, they develop Cloud Code using Claude Code, they develop Cloud using Cloud Code, etc. And the newest version, which was Co-work.
+
+203
+00:34:29.550 --> 00:34:34.310
+Dileep Karri: is also built using Claude Code. 100% using Claude Code, that's what the team claims.
+
+204
+00:34:35.020 --> 00:34:53.199
+Dileep Karri: Okay? So, with non-technical folks kind of using it a lot, the reason why COWARK came is, non-technical people started using it, and people said that, you know, by the terminal, it was very cumbersome, and that's why they built Cowork. And we'll see the demos exactly how it is, etc, and all that.
+
+205
+00:34:53.610 --> 00:35:04.030
+Dileep Karri: Okay? So now, we will get into the installation or setup of Cloud Code, along with the pricing, okay? The billion dollar question of pricing, setups, etc.
+
+206
+00:35:04.520 --> 00:35:14.529
+Dileep Karri: So, Cloud Code, unfortunately, is available only in the Pro and the Max plan. That is, you have to pay at least $20,
+
+207
+00:35:15.000 --> 00:35:20.039
+Dileep Karri: $1.00 to $1.200, if you're on the max plan.
+
+208
+00:35:21.200 --> 00:35:29.600
+Dileep Karri: Okay? So, currently, it is this. As I said, they are into the enterprise, and they are trying to do this stuff.
+
+209
+00:35:29.600 --> 00:35:44.799
+Dileep Karri: There is an alternate for Claude Code, I will talk about that also, but that, I haven't tested it extensively, because I like Claude Code so much, I know that it exists, but I didn't test it extensively. For some of you who want, you can test it out extensively later on.
+
+210
+00:35:45.190 --> 00:35:54.210
+Dileep Karri: Okay? And but I genuinely feel, if there was a product which I… like, right now, some of the products I really love.
+
+211
+00:35:54.230 --> 00:36:12.680
+Dileep Karri: One product is Cloud Code, that is really, this thing, like, that is, I always feel like after ChatGPT 4.0, if there was something that really changed the way things are done, we challenged the boundaries, that was Claude Code and Gemini 3 Pro.
+
+212
+00:36:13.000 --> 00:36:14.890
+Dileep Karri: Gemini 3 Pro is crazy.
+
+213
+00:36:15.700 --> 00:36:24.440
+Dileep Karri: Okay? I'll tell you some of my workflows for Gemini 3 Pro, if it works, or I'll try to use Cloud Code only to show those workflows with Gemini 3 Pro.
+
+214
+00:36:24.560 --> 00:36:27.600
+Dileep Karri: But that is the setup. There are 4 ways
+
+215
+00:36:29.880 --> 00:36:35.329
+Dileep Karri: to set up Cloud Code, okay? The first way is the geekiest way.
+
+216
+00:36:35.500 --> 00:36:38.149
+Dileep Karri: Okay? And that is a terminal setup.
+
+217
+00:36:43.160 --> 00:36:51.750
+Dileep Karri: Okay? And there are a few things that you need to understand, alright? So, one thing is, you need to have a cloud subscription.
+
+218
+00:36:57.500 --> 00:37:09.069
+Dileep Karri: Okay? If you have a cloud subscription, you could, kind of use this, but if you don't have a Claude subscription, you can even take Anthropic API subscription also.
+
+219
+00:37:12.580 --> 00:37:18.530
+Dileep Karri: You guys understand the difference between this, right? Cloud subscription and Anthropic API subscription.
+
+220
+00:37:18.710 --> 00:37:24.130
+Dileep Karri: Right? Claude subscription is your subscription, you are paying money to the cloud tool.
+
+221
+00:37:25.130 --> 00:37:34.290
+Dileep Karri: Okay? Anthropic API subscription is, you are paying money for the API. Both are very different. So this is exactly the difference between ChatGPT
+
+222
+00:37:34.700 --> 00:37:36.780
+Dileep Karri: and OpenAI API.
+
+223
+00:37:38.490 --> 00:37:43.999
+Dileep Karri: Okay? So, same way between Gemini, and Gemini API.
+
+224
+00:37:45.920 --> 00:37:48.830
+Dileep Karri: Both are different, you'll have to pay separately for both.
+
+225
+00:37:50.750 --> 00:37:54.510
+Dileep Karri: Okay? So… First step.
+
+226
+00:37:54.620 --> 00:37:55.700
+Dileep Karri: Right?
+
+227
+00:37:55.890 --> 00:37:58.760
+Dileep Karri: The first step that you need to understand is.
+
+228
+00:37:59.060 --> 00:38:08.159
+Dileep Karri: either go for cloud subscription, or go for Anthropic API subscription. My recommendation, if you want to use it, is go for cloud subscription.
+
+229
+00:38:08.400 --> 00:38:17.290
+Dileep Karri: Because there is control over expenditure, and you'll know how much you are spending, and what is the context limit. Go slow with cloud subscription first.
+
+230
+00:38:17.410 --> 00:38:27.359
+Dileep Karri: Because you go to Anthropic API subscription, if suppose your credit card automatically refreshes the credit, suddenly you will get up one day and see you are charged $500 on your credit card.
+
+231
+00:38:28.410 --> 00:38:38.619
+Dileep Karri: Okay? So be very careful. Start with cloud subscription. Don't go with Anthropic API subscription, especially people abroad. Indians, you are saved.
+
+232
+00:38:38.620 --> 00:38:54.139
+Dileep Karri: Because our RBI rules assure you that your card is not directly charged, etc. It is painful, but at least you are safe. International, you put your credit card, and you, by chance, forget it, suddenly you get with a $500 credit card.
+
+233
+00:38:54.630 --> 00:39:06.310
+Dileep Karri: Okay? I am talking about this very importantly, because I don't want you guys to come back saying that, Dilip, you taught Claude code, and suddenly when I'm working with it, $200 kind of…
+
+234
+00:39:06.620 --> 00:39:09.170
+Dileep Karri: You know, are lost.
+
+235
+00:39:09.510 --> 00:39:16.819
+Dileep Karri: Okay? So what I'd suggest is, go with cloud subscription, and try to work within the limits that are there.
+
+236
+00:39:16.990 --> 00:39:23.749
+Dileep Karri: Okay? I would say start with $20 or $100. $200 you can invest once you become a power user.
+
+237
+00:39:25.520 --> 00:39:35.600
+Dileep Karri: Okay? So this is about it. So once you have taken the subscription, right, first the terminal setup, and Cloud Code has got very good
+
+238
+00:39:35.810 --> 00:39:40.649
+Dileep Karri: You know, Documentation on how to download.
+
+239
+00:39:40.960 --> 00:39:42.340
+Dileep Karri: Sorry, not this.
+
+240
+00:39:43.330 --> 00:39:44.740
+Dileep Karri: Yeah, this is the one.
+
+241
+00:39:48.680 --> 00:39:58.200
+Dileep Karri: Okay? So, if you say Claude Code, right, you can get it on the web, so it will tell you exactly how to do, either on a terminal.
+
+242
+00:39:58.390 --> 00:40:04.379
+Dileep Karri: on IDE, On Webband OS, it is now available on Slack also.
+
+243
+00:40:04.910 --> 00:40:09.140
+Dileep Karri: Okay, but I will tell you to kind of start at different places.
+
+244
+00:40:10.410 --> 00:40:13.239
+Dileep Karri: If you are trying to do it on the terminal.
+
+245
+00:40:13.870 --> 00:40:18.799
+Dileep Karri: Okay? Try to use it in this particular manner. Better.
+
+246
+00:40:19.270 --> 00:40:24.300
+Dileep Karri: A better way to do that is ask Claude itself, okay? Glow to Claude.
+
+247
+00:40:27.900 --> 00:40:29.650
+Dileep Karri: Okay? And say…
+
+248
+00:40:30.930 --> 00:40:38.150
+Dileep Karri: I am a non-technical person trying to install Cloud code on my system. Give me a step-by-step process.
+
+249
+00:41:06.860 --> 00:41:14.299
+Dileep Karri: Okay, so on Mac or Linux, you will have to open the terminal, and you have to paste this command, and Claude will get installed.
+
+250
+00:41:14.650 --> 00:41:23.660
+Dileep Karri: Okay, that is for Mac or Linux. For Windows, you will have to, again, use the same command, but this is the,
+
+251
+00:41:23.660 --> 00:41:34.820
+Dileep Karri: thing. Like, you'll need to install WSL by opening PowerShell as administrator. In case you don't know, okay, you can actually, check how to do that.
+
+252
+00:41:35.650 --> 00:41:44.369
+Dileep Karri: Alright, and then you say, Claude in any place, it will open up. So that is a terminal way of installation. That is step one.
+
+253
+00:41:44.770 --> 00:41:45.830
+Dileep Karri: Where?
+
+254
+00:41:47.060 --> 00:41:58.189
+Dileep Karri: through terminal, You need a… like, on Mac, it is terminal. On Windows, it is PowerShell.
+
+255
+00:41:59.810 --> 00:42:19.369
+Dileep Karri: you put the command that is mentioned there, and you install Cloud Code. Once you install Cloud Code, you go to the terminal and say cloud command, it'll ask you to log into your Cloud subscription, so that it can understand what plan you are in, and the tokens are used accordingly. Okay, that is the first way to do that.
+
+256
+00:42:19.370 --> 00:42:30.270
+Dileep Karri: Second way is for people who are using cursor slash anti-gravity, slash Cloud Code.
+
+257
+00:42:31.140 --> 00:42:32.240
+Dileep Karri: etc.
+
+258
+00:42:33.390 --> 00:42:40.319
+Dileep Karri: Okay, so not Cloud Code, cursor slash anti-gravity slash VS Code. Any VS Code users over here?
+
+259
+00:42:40.940 --> 00:42:53.660
+Dileep Karri: Any VS Code users? Oh, I see a lot of VS Code users. So, VS Code users also will like it, okay? You can be in any IDE, it would work, okay? I'll show you how it is to be done in the IDEs.
+
+260
+00:42:57.290 --> 00:43:03.060
+Dileep Karri: I think I'll share my desktop now, because there is a lot of switching of windows that's going to happen.
+
+261
+00:43:09.250 --> 00:43:10.160
+Dileep Karri: Okay?
+
+262
+00:43:14.120 --> 00:43:16.190
+Dileep Karri: So, I'm showing it on cursor.
+
+263
+00:43:16.340 --> 00:43:28.940
+Dileep Karri: Okay, you see, Cloud Code is just beside my system, and that is because I have installed the extensions on Cloud Code. So, go to Help. In Help, you can search for extensions.
+
+264
+00:43:29.100 --> 00:43:32.269
+Dileep Karri: Okay, settings, extensions, click on that.
+
+265
+00:43:32.770 --> 00:43:40.889
+Dileep Karri: Okay, and when you search for Claude Code, there is a Claude Code plugin now given by Anthropic itself. It was released very recently.
+
+266
+00:43:41.110 --> 00:43:52.070
+Dileep Karri: Till now, all the Cloud Code terminals were built for… by third-party developers. It was not Anthropic official. Now, Anthropic has an official Cloud Code
+
+267
+00:43:52.700 --> 00:43:56.909
+Dileep Karri: Extension that can be set up right inside your terminal.
+
+268
+00:43:58.210 --> 00:44:06.310
+Dileep Karri: Okay? So for people who want to do stuff from the terminal, Cloud Code can exist inside your terminal itself.
+
+269
+00:44:07.830 --> 00:44:22.220
+Dileep Karri: Okay? Now, because it is based on VS Code, the same extension is available on Anti-Gravity, the same extension is available on Cursor, the same extension is available on VS Code. What you need to understand is.
+
+270
+00:44:22.720 --> 00:44:36.149
+Dileep Karri: cursor, anti-gravity, windsurf, everybody, is a clone of VS Code. So VS Code is open source. People cloned it, added their own features on top of it. So the extension built in
+
+271
+00:44:36.600 --> 00:44:40.030
+Dileep Karri: for VS Code is applicable across the board.
+
+272
+00:44:41.190 --> 00:44:54.790
+Dileep Karri: Okay, so all you have to do is install this extension and follow the setup steps. You will have your Cloud code terminal. By the way, this mascot that you see, it is called Claude. Okay, C-L-A-W-D, that is a mascot.
+
+273
+00:44:56.330 --> 00:45:01.169
+Dileep Karri: Okay, so this is the second step, second way to install Cloud Code.
+
+274
+00:45:01.390 --> 00:45:04.189
+Dileep Karri: Okay, that is via your…
+
+275
+00:45:04.360 --> 00:45:22.749
+Dileep Karri: you know, IDE. So therefore, for those of you who are doing wipe coding on cursor, wind surf, anti-gravity, if you want to use Claude Code within, you can use it alongside. So that's a great thing, like, you don't have to go to a separate place and do that, you can do it right away.
+
+276
+00:45:23.500 --> 00:45:29.539
+Dileep Karri: Now, if you are, kind of very, very, you know,
+
+277
+00:45:29.890 --> 00:45:33.640
+Dileep Karri: Paranoid, or you are very scared of doing this way.
+
+278
+00:45:33.900 --> 00:45:34.850
+Dileep Karri: Okay?
+
+279
+00:45:35.150 --> 00:45:41.750
+Dileep Karri: Third way to do that is via web. On web itself, you can look at Cloud Core. We can see that also.
+
+280
+00:45:42.110 --> 00:45:50.990
+Dileep Karri: So… You can actually get Cloud Code on the web.
+
+281
+00:45:52.740 --> 00:45:55.789
+Dileep Karri: If you go up, when you say web and iOS,
+
+282
+00:45:58.250 --> 00:46:06.190
+Dileep Karri: Right? It will say, open in browser, and you can open Cloud Code inside the your browser.
+
+283
+00:46:08.190 --> 00:46:15.269
+Dileep Karri: Okay, so for those of you who are a little scared of doing terminal installations or installing on your IDE,
+
+284
+00:46:15.770 --> 00:46:17.780
+Dileep Karri: Okay? You can,
+
+285
+00:46:18.340 --> 00:46:34.320
+Dileep Karri: you know, do this. And how does it pick it up? When you do the first installation, it will prompt you to log into your cloud subscription, or if in your browser you are already logged into your cloud subscription and you have the pro plan, automatically cloud code is adopted.
+
+286
+00:46:36.350 --> 00:46:41.839
+Dileep Karri: Okay? Third way to kind of open this up. So, Sarmat, I hope you got your question.
+
+287
+00:46:42.090 --> 00:46:54.479
+Dileep Karri: Right? Once you do this, in extension, when you run it for the first time, it will ask you to actually log in. In case it is not asking you to log in, just do a Claude search on, you know.
+
+288
+00:46:54.480 --> 00:47:04.989
+Dileep Karri: I want to log into my Cloud account, and you can do this. So, for people who are into no-code, and you're a little bit scared of IDE,
+
+289
+00:47:05.030 --> 00:47:21.580
+Dileep Karri: If you are, you know, kind of working with cursor, or this thing, I would, you know, kind of recommend you to work from Cursor. That is the ideal approach, because you have to… if you want to build a… become a good AI generalist, cursor is…
+
+290
+00:47:21.810 --> 00:47:29.989
+Dileep Karri: very, very important cursor, like, when I say cursor, it is not just cursor. Anti-gravity, cursor, wind surf, VS Code, anything.
+
+291
+00:47:30.290 --> 00:47:48.989
+Dileep Karri: It becomes important to work with, okay? But I understand that some of you are a little skeptical, a little scared. For you, either you can do it via web, that is one recommendation, but my stronger recommendation is web is a research preview, that is, it's not fully stable.
+
+292
+00:47:49.720 --> 00:47:54.300
+Dileep Karri: Okay? I would recommend to install Cloud Desktop.
+
+293
+00:47:57.750 --> 00:48:06.869
+Dileep Karri: Okay? I will recommend you to install Cloud Desktop, and for Cloud Desktop, you can install… go to the Code section.
+
+294
+00:48:07.260 --> 00:48:08.980
+Dileep Karri: That is your Cloud code.
+
+295
+00:48:11.570 --> 00:48:26.770
+Dileep Karri: Okay? So, if you are a coder, okay, there is nothing to declare. I think coders should work with their IDEs and have it with respect to coder inside the IDE itself, okay? That is,
+
+296
+00:48:26.920 --> 00:48:33.629
+Dileep Karri: One thing, and if you are a non-coder, try to do it via, the You know, the…
+
+297
+00:48:33.910 --> 00:48:40.970
+Dileep Karri: the Cloud desktop setup. I would recommend not to go via web, go with Cloud desktop setup.
+
+298
+00:48:41.460 --> 00:48:59.210
+Dileep Karri: Okay? Let me take a few questions. What is the difference of mounting Claude Code to Cursor versus mounting Opus 4.1? Great question. See, Opus is Anthropic API, okay? So, Cloud Code is using Anthropic API, but there is a lot of optimization that is done.
+
+299
+00:49:00.470 --> 00:49:12.710
+Dileep Karri: Okay, there is a lot of optimization that is done, that, you know, kind of, makes it better. So, how do I put it is, it's exactly the difference between OpenAI API and ChatGPT.
+
+300
+00:49:12.930 --> 00:49:17.970
+Dileep Karri: Okay? If you go to the OpenAI playground, select a model, and you get the output.
+
+301
+00:49:18.250 --> 00:49:29.800
+Dileep Karri: paste the exact same prompt in ChatGPT, I guarantee you get a different output. Have any of you tried it, seen it anytime? Right? So that's the difference, okay?
+
+302
+00:49:30.330 --> 00:49:31.450
+Dileep Karri: Then…
+
+303
+00:49:32.100 --> 00:49:39.600
+Dileep Karri: Claude Desktop is the official client from Anthropic. It's the official thing, it's not unofficial, it is exactly official.
+
+304
+00:49:40.620 --> 00:49:53.339
+Dileep Karri: Okay? So, I hope… so, everybody clear on installations, how you can set up Claude code on your system, right? So, right now, Claude, code, I would suggest
+
+305
+00:49:53.790 --> 00:50:01.379
+Dileep Karri: The thing is… go with… Cloud desktop for non-coders.
+
+306
+00:50:01.850 --> 00:50:08.049
+Dileep Karri: go with IDE for coders. That is the best. Terminal, you can kind of…
+
+307
+00:50:08.250 --> 00:50:10.159
+Dileep Karri: You know, get to it later.
+
+308
+00:50:10.960 --> 00:50:13.489
+Dileep Karri: You can control temperature.
+
+309
+00:50:13.490 --> 00:50:37.869
+Dileep Karri: Yes, yes. So, that happens, but there is a lot more thing that happens, okay? So, for those of you not aware, even I do all that, in ChatGPT, water output comes, there is a lot more refinement that happens, which is not present in the API, because they want people… if API was exactly as ChatGPT, what is stopping me from creating a ChatGPT clue?
+
+310
+00:50:39.390 --> 00:50:50.619
+Dileep Karri: Right? So, that is why, people… there is a lot more optimization done on ChatGPT as compared to the API. API is still a little bit raw.
+
+311
+00:50:51.120 --> 00:51:01.780
+Dileep Karri: Okay? So, with respect to the question, right, which is better, Cloud Core, cursor, anti-gravity, etc, what I would say is the true AI generalist keeps switching between the things.
+
+312
+00:51:02.340 --> 00:51:12.620
+Dileep Karri: Okay? And what I believe is, when you are planning something, or you are trying to get a plan, or you are trying to prepare a plan.
+
+313
+00:51:13.070 --> 00:51:15.440
+Dileep Karri: Claude Code is excellent in planning.
+
+314
+00:51:15.710 --> 00:51:20.309
+Dileep Karri: Okay? In fact, any planning that you're trying to do, plot code is excellent.
+
+315
+00:51:20.490 --> 00:51:28.879
+Dileep Karri: For building the stuff, right, for following the particular plan and building the stuff, you can use any other thing.
+
+316
+00:51:28.930 --> 00:51:35.299
+Dileep Karri: Right? You can use the Composer model or any other models which are available free of cost.
+
+317
+00:51:35.300 --> 00:51:53.579
+Dileep Karri: So, I will talk about the coding practices, etc, a little later. First, I want to get into the core Clod and demonstrate a few things, and then we'll get into how do you optimize cost, how do you work with it, etc. Anti-gravity is exactly the same as I showed for Clod, okay? So, if you see anti-gravity.
+
+318
+00:51:53.690 --> 00:51:59.629
+Dileep Karri: I'll open… Anti-gravity. So, I will kind of search.
+
+319
+00:52:00.360 --> 00:52:02.109
+Dileep Karri: Why not, sir, this search.
+
+320
+00:52:04.120 --> 00:52:06.780
+Dileep Karri: Help, again, same thing, extensions.
+
+321
+00:52:10.370 --> 00:52:17.460
+Dileep Karri: Okay? I have multiple extensions, and I will search for… plot code.
+
+322
+00:52:25.810 --> 00:52:32.009
+Dileep Karri: Okay, there you go. Cloud Code is here. Cloud Code for VS Code is present, and you just have to install.
+
+323
+00:52:33.300 --> 00:52:38.400
+Dileep Karri: Okay? So, irrespective of the IDE, it is present everywhere.
+
+324
+00:52:40.850 --> 00:52:41.740
+Dileep Karri: Okay.
+
+325
+00:52:44.440 --> 00:52:45.240
+Dileep Karri: Alright.
+
+326
+00:52:45.880 --> 00:52:56.139
+Dileep Karri: So, what I will do is, first, level, right, I will, start by showing you some of the use cases of co-work.
+
+327
+00:52:56.340 --> 00:53:06.440
+Dileep Karri: Okay? Because co-work is a very neat introduction to what Cloud Code does for non-coders, okay? We'll start from there, and then we'll get into
+
+328
+00:53:07.050 --> 00:53:08.679
+Dileep Karri: Hardcode coding.
+
+329
+00:53:08.910 --> 00:53:13.899
+Dileep Karri: or hard code orchestration, as I call it, because I'm not going to code-code per se.
+
+330
+00:53:14.280 --> 00:53:18.370
+Dileep Karri: I'm going to share a bunch of things of how to work with Cloud Code.
+
+331
+00:53:18.880 --> 00:53:32.630
+Dileep Karri: Okay? All of you following me so far, pace is good, nothing you are getting lost. I know it's a little tough concept, but I hope everybody is understanding, with respect to the setup, the storyline, etc, with respect to Claude Code.
+
+332
+00:53:35.080 --> 00:53:50.070
+Dileep Karri: Alright? Great. So now, installation is done. You can, if you're not done it, you can do it later. You will have the recording, you check the steps, and you can also see it. What I will do is, first, I will switch to Claude Kovark.
+
+333
+00:53:51.600 --> 00:54:02.729
+Dileep Karri: Okay? I will switch to Claude Co-work and give you a nice demonstration of a use case of Claude Co-work, and then I will uncover what is happening behind the scenes.
+
+334
+00:54:03.160 --> 00:54:14.820
+Dileep Karri: Okay? So, what Cloud Cowork does is, Cowork is a layer over Cloud Code. So, the same thing of Cloud Code, with a better UI for non-coders. That is what Claude Cowork is.
+
+335
+00:54:16.100 --> 00:54:24.290
+Dileep Karri: Alright, so let me just explain a little bit about Cloud Core Work, and then we will get to a demonstration with Cloud Core Work.
+
+336
+00:54:26.120 --> 00:54:32.790
+Dileep Karri: Okay, I'll just remove these tabs, it'll confuse me, too many Claude codes running around. I will work with what?
+
+337
+00:54:32.910 --> 00:54:34.980
+Dileep Karri: I am, working with, okay?
+
+338
+00:54:36.590 --> 00:54:40.290
+Dileep Karri: So, what had happened is, Cloud Code
+
+339
+00:54:42.880 --> 00:54:47.160
+Dileep Karri: Right? What happens is, with Claude Code, you have…
+
+340
+00:54:47.420 --> 00:54:51.580
+Dileep Karri: A lot of non-coders who were using a lot of stuff.
+
+341
+00:54:51.640 --> 00:55:07.510
+Dileep Karri: And it became viral, and every day when YouTube comes, you know, Claude Code is my new CMO, Claude Code is my AI employee, all that stuff. So the team behind Claude Code started watching those use cases on Twitter as well as YouTube.
+
+342
+00:55:07.660 --> 00:55:16.499
+Dileep Karri: So they saw that, and what they found is, one of the main use cases that Claude code has been used for is document intelligence.
+
+343
+00:55:22.010 --> 00:55:31.580
+Dileep Karri: Okay? So what they do is, they give Claude Code a bunch of documents, ask Cloud Code to go through the documents, and surface intelligence from the same.
+
+344
+00:55:32.990 --> 00:55:50.009
+Dileep Karri: Okay? Right? So, that is what Cloud Code was doing overall. So, basically, that was the main use case for non-coders. So, taking this, what Cloud Code makers have done is, they attached a UI on top of Cloud Code.
+
+345
+00:55:50.280 --> 00:56:08.629
+Dileep Karri: Okay, the way I should think about Cloud Code is, there is this very popular meme of Scooby-Doo, where there is a mask on a culprit, and when you unmask the culprit, it is something different. This is exactly that. They call co-work, but when you unmask co-work, it is exactly Cloud Code itself.
+
+346
+00:56:08.880 --> 00:56:13.689
+Dileep Karri: So, I would call it Cloud code for non-coders is nothing but…
+
+347
+00:56:17.430 --> 00:56:25.699
+Dileep Karri: Okay? So what it does is, the way they have set up the UI, etc, is Covert can access your local folders.
+
+348
+00:56:27.940 --> 00:56:31.919
+Dileep Karri: So the way you work with co-workers, point to a local folder.
+
+349
+00:56:32.040 --> 00:56:33.869
+Dileep Karri: There'll be a bunch of stuff.
+
+350
+00:56:34.260 --> 00:56:36.290
+Dileep Karri: And you will try to…
+
+351
+00:56:36.780 --> 00:56:45.810
+Dileep Karri: understand what is happening and execute, okay? And now, let me show you a great practical example behind co-work.
+
+352
+00:56:46.020 --> 00:56:51.959
+Dileep Karri: Okay? Cloud skills will come to it, we'll come to it, okay? Layer by layer, we will… we will get to that.
+
+353
+00:56:52.380 --> 00:56:58.059
+Dileep Karri: Alright, so co-work, I get access to the local folder, and I can do a bunch of stuff.
+
+354
+00:56:58.340 --> 00:57:08.910
+Dileep Karri: Alright, so what I'm going to do is, I will do an interesting experiment with all of you, wherein I will actually look at AI accelerator transcripts.
+
+355
+00:57:12.440 --> 00:57:13.540
+Dileep Karri: Okay?
+
+356
+00:57:13.890 --> 00:57:25.880
+Dileep Karri: Maybe, it is a later cohort, okay? I will look at AI accelerator transcripts, and then try to, you know, do some intelligence on top of it.
+
+357
+00:57:27.240 --> 00:57:30.699
+Dileep Karri: Okay? So, here is how I will do it.
+
+358
+00:57:31.030 --> 00:57:42.870
+Dileep Karri: So first, I will need to, of course, have the transcripts into a folder, and you guys have all the transcripts, based, the sessions you have seen, so those transcripts are already available in a folder.
+
+359
+00:57:42.960 --> 00:58:07.279
+Dileep Karri: If you are installing Cloud Desktop, Co-Work is automatically installed if you are in a paid plan, but the thing is, Co-Work is a very recent tool. It has just been launched, like, one or two weeks back, so therefore it is not completely rolled out, but if you are actively working with Claude, you will see a tab called Co-Work on top of it. So, Co-Work is present only on Cloud Desktop. It is not present anywhere else.
+
+360
+00:58:07.670 --> 00:58:09.890
+Dileep Karri: Plus, only on a Mac.
+
+361
+00:58:12.240 --> 00:58:26.850
+Dileep Karri: So, it is released only for Mac currently, again, 1-2 weeks, right? As I told you, I'm going to do only a demonstration. Afterwards, I will show you, without Claude Co-work, how I will do the same task on Claude Code also.
+
+362
+00:58:27.320 --> 00:58:44.269
+Dileep Karri: Alright, I will show you both the things. And that too, I will show it to you in parallel. Just to show that Cloud Code, the beauty and why it became viral is, I can run 10 tasks on Cloud Code in parallel without one task, not one task after another.
+
+363
+00:58:45.930 --> 00:58:57.439
+Dileep Karri: Okay, so let's get to it. So what I'll do is, the task I'm going to do is, I'm going to… I have access to the transcripts of my AI Accelerator sessions.
+
+364
+00:58:58.140 --> 00:59:03.080
+Dileep Karri: Alright, and I will ask Claude to kind of critique the sessions.
+
+365
+00:59:03.380 --> 00:59:13.769
+Dileep Karri: Based on the transcript, and tell me what improvements I need to make for future editions of the accelerator, what new things I should teach, what are the things I should not teach.
+
+366
+00:59:14.850 --> 00:59:30.099
+Dileep Karri: Okay? So this is a work… this is something that I have to do on a day-by-day basis. For every accelerator, I need to think through this. So let me see, and I have not done this, by the way, I want to do it live in front of you, so that we can see how effective Claude is.
+
+367
+00:59:31.010 --> 00:59:35.480
+Dileep Karri: Alright? So… Open Claude.
+
+368
+00:59:36.120 --> 00:59:37.890
+Dileep Karri: I'm opening co-work.
+
+369
+00:59:38.170 --> 00:59:41.899
+Dileep Karri: Okay? So, Covark has a very simple interface.
+
+370
+00:59:43.390 --> 00:59:46.879
+Dileep Karri: I can select the folder.
+
+371
+00:59:47.240 --> 00:59:56.289
+Dileep Karri: I will choose a different folder, so I have documents, sorry, Downloads. Inside Downloads, I have… where is it?
+
+372
+00:59:57.560 --> 01:00:05.269
+Dileep Karri: AI AP transcripts, okay? So, accelerator program transcripts. This is for Cohort 6. I have some few transcripts over there.
+
+373
+01:00:05.390 --> 01:00:06.640
+Dileep Karri: I open.
+
+374
+01:00:08.040 --> 01:00:10.479
+Dileep Karri: Alright, now I will give you the prompt.
+
+375
+01:00:13.900 --> 01:00:16.849
+Dileep Karri: Yes, one subscription you can access anywhere you want.
+
+376
+01:00:17.390 --> 01:00:27.750
+Dileep Karri: But the tokens are shared. If you use 20 tokens here, you use 100 tokens there, it will not think 20 plus 20 separate, separate. It is part of your subscription only.
+
+377
+01:00:28.380 --> 01:00:29.749
+Dileep Karri: So, there you go.
+
+378
+01:00:31.770 --> 01:00:43.259
+Dileep Karri: Hi, I'm giving you access to my transcripts overall. I am planning the next version of the AI Accelerator program, which is to teach AI concepts to
+
+379
+01:00:43.370 --> 01:00:47.830
+Dileep Karri: People, who aspire to become AI generalists.
+
+380
+01:00:48.040 --> 01:01:05.700
+Dileep Karri: look at the transcripts, look at the latest tools, releases, advancements, etc, and can you give me a critique on what should I teach and what should I not teach in the next version of the Accelerator? Prepare a proper PDF,
+
+381
+01:01:05.770 --> 01:01:11.580
+Dileep Karri: Output, further, complete suggestions, be as exhaustive as you want to be.
+
+382
+01:01:18.590 --> 01:01:19.600
+Dileep Karri: Okay?
+
+383
+01:01:20.910 --> 01:01:24.020
+Dileep Karri: Thanks to Whisper Flow, very well formatted prompt.
+
+384
+01:01:24.290 --> 01:01:26.179
+Dileep Karri: And I will start.
+
+385
+01:01:31.270 --> 01:01:42.309
+Dileep Karri: Okay, so there, if you see, I have started, agent is starting over here. So the agent is starting sending requests, etc. So, it is,
+
+386
+01:01:42.780 --> 01:01:47.800
+Dileep Karri: You know, let me clarify a few things. It is going to ask me for some clarifications.
+
+387
+01:01:47.990 --> 01:01:56.489
+Dileep Karri: Okay? Who is the target audience for this? Complete beginners, beginner business professionals, technical professionals, mixed audience. What do you guys think?
+
+388
+01:01:56.850 --> 01:02:00.870
+Dileep Karri: Mixed audience, technical professionals, business professionals, complete beginners.
+
+389
+01:02:01.020 --> 01:02:04.110
+Dileep Karri: etc, all that. So, let me go with mixed audience.
+
+390
+01:02:04.590 --> 01:02:16.850
+Dileep Karri: What is the primary goal for graduates of this program? Use AI tools effectively, build AI applications, lead initiatives, it is all of the above. Everybody has a different goal. So I need to optimize all of the above.
+
+391
+01:02:17.730 --> 01:02:24.319
+Dileep Karri: What format do you prefer for the critic? I will say comprehensive review. I need a comprehensive review.
+
+392
+01:02:24.990 --> 01:02:26.719
+Dileep Karri: Alright, now…
+
+393
+01:02:27.330 --> 01:02:35.209
+Dileep Karri: the, it is starting overall. So behind Claude code is working, but it is showing you as if something else is working.
+
+394
+01:02:35.680 --> 01:02:46.960
+Dileep Karri: Okay, so if you see here, reading and analyzing AI AP transcripts, research latest AI tools, research and advancements, identify curriculum gaps and outdated content, develop
+
+395
+01:02:47.180 --> 01:02:53.580
+Dileep Karri: recommendations for what to teach, what to remove, create comprehensive PDF output with all the findings.
+
+396
+01:02:54.220 --> 01:02:58.740
+Dileep Karri: Okay? Now I'll show you the beauty of this. I will say new task.
+
+397
+01:02:59.390 --> 01:03:03.079
+Dileep Karri: It is happening in the background. Now I'll work on something else.
+
+398
+01:03:04.500 --> 01:03:06.510
+Dileep Karri: So, I have this podcast.
+
+399
+01:03:09.370 --> 01:03:14.140
+Dileep Karri: by Lenny. Lenny is a product manager, or some… I think he's a…
+
+400
+01:03:14.460 --> 01:03:23.150
+Dileep Karri: Everybody knows Lenny, right? Lenny, who is a big product manager, he has a fantastic podcast where he talks to a lot of AI readers.
+
+401
+01:03:23.310 --> 01:03:31.629
+Dileep Karri: Okay, so I have downloaded Lenny's podcast transcripts, 320 of them, or some… it is in the 200 to 300 number.
+
+402
+01:03:32.120 --> 01:03:35.589
+Dileep Karri: Okay? Now let… now I will tell you what I'm going to do.
+
+403
+01:03:37.530 --> 01:03:54.349
+Dileep Karri: I want to analyze podcast transcripts of AI leaders, mainly, and I want to understand and distill what is the best AI advice they have given. Get me 10 such leaders and the main advice that they have shared.
+
+404
+01:03:54.750 --> 01:04:00.419
+Dileep Karri: What I don't want is non-AI leaders podcast, so sample all,
+
+405
+01:04:00.420 --> 01:04:21.739
+Dileep Karri: the podcast transcripts to get me 10 AI leaders. If you get the 10 AI leaders, that is sufficient, along with the advice on AI that they're giving, especially to working professionals. And this advice should be tailored to aspiring AI generalists, people who are looking at AI to solve problems, build businesses, etc.
+
+406
+01:04:24.810 --> 01:04:27.050
+Dileep Karri: Okay? So…
+
+407
+01:04:35.160 --> 01:04:37.339
+Dileep Karri: this, and I say, let's go.
+
+408
+01:04:37.490 --> 01:04:53.739
+Dileep Karri: So now, one more is going on in parallel, and that is the beauty of Cloud Code. You can run multiple things in parallel, you have, you know, work in different things, etc, and all that.
+
+409
+01:04:54.050 --> 01:04:55.509
+Dileep Karri: So, yes,
+
+410
+01:04:55.660 --> 01:05:05.880
+Dileep Karri: Right now, based on my instructions, it is not going to read all the… all the 320, it will just take a sample and try to figure it out.
+
+411
+01:05:07.280 --> 01:05:13.040
+Dileep Karri: Okay? So, it is looking… look here, it is analyzing, telling the names of the leaders it is trying to analyze.
+
+412
+01:05:13.630 --> 01:05:16.700
+Dileep Karri: Okay? So, I can see the names also.
+
+413
+01:05:17.310 --> 01:05:34.940
+Dileep Karri: So, exploring podcast transcripts, read transcripts of AI leaders and synthesis allies, synthesize and compile top 10 leaders, verify advice is tailored to AI generalists and working professionals. So, when we are trying to work with this, right, controlling the token usage is very difficult, at least in this place.
+
+414
+01:05:35.000 --> 01:05:40.309
+Dileep Karri: Right? You are giving a task, you have to be willing to sacrifice those tokens.
+
+415
+01:05:40.960 --> 01:05:48.830
+Dileep Karri: Okay, right now, I want to focus more on the power of doing tasks with it. Token savings, etc, we will figure it out as we go along.
+
+416
+01:05:49.740 --> 01:05:57.069
+Dileep Karri: Okay? Clear as to how, with co-work, I'm looking at this, Claude Code does the exact same thing.
+
+417
+01:05:57.240 --> 01:06:04.159
+Dileep Karri: Plan the task, take step by step, cross out each task, and give the final output.
+
+418
+01:06:07.040 --> 01:06:09.400
+Dileep Karri: Okay? So this is happening.
+
+419
+01:06:10.290 --> 01:06:13.420
+Dileep Karri: Let me go back to the others. This is happening.
+
+420
+01:06:15.770 --> 01:06:18.940
+Dileep Karri: So then, it is saying PDF is too large.
+
+421
+01:06:19.750 --> 01:06:22.920
+Dileep Karri: So it is not able to read it, I will say.
+
+422
+01:06:24.030 --> 01:06:27.620
+Dileep Karri: Read-only Day 1.
+
+423
+01:06:35.630 --> 01:06:38.409
+Dileep Karri: So maybe it is too big, so, okay.
+
+424
+01:06:47.730 --> 01:07:02.019
+Dileep Karri: Okay, I think the transcript is too big, alright, so that's why it is not able to do it. I don't know, earlier when I tried, it did. It's okay. For now, we'll review it, but the idea is you can do such tasks. Now, look at this, how it is doing.
+
+425
+01:07:04.430 --> 01:07:15.239
+Dileep Karri: I think this one is going very well, and anytime you can look… actually look at the steps, and if you see the steps, there is some commands it is running on the backend, right? So it is actually working on
+
+426
+01:07:15.750 --> 01:07:30.140
+Dileep Karri: the things overall. I think, because our transcripts are, like, 4 hours big, right? I think that's why, you are, able to do that. And all the parallel tasks, right, they are running on this side.
+
+427
+01:07:31.380 --> 01:07:36.020
+Dileep Karri: Okay? So here is the place where I can check on different tasks.
+
+428
+01:07:37.460 --> 01:07:40.330
+Dileep Karri: So, as this is happening, I can do a new task.
+
+429
+01:07:44.110 --> 01:07:51.630
+Dileep Karri: Okay, where I go to… say, downloads, and I say, organize the files.
+
+430
+01:07:54.550 --> 01:08:00.359
+Dileep Karri: So, something that MCP had done, right? File System MCP server, it can do it right away.
+
+431
+01:08:07.370 --> 01:08:21.149
+Dileep Karri: Okay, so you can run multiple, like, suppose you were to prepare a report, you were to prepare a PPT, you were to do something else, you were to do something else. You run everything in parallel, leave it while you're focusing on something else.
+
+432
+01:08:22.569 --> 01:08:26.689
+Dileep Karri: Okay? So no MCP server is needed.
+
+433
+01:08:26.810 --> 01:08:31.299
+Dileep Karri: Okay? I will say, move them to the installer's folder.
+
+434
+01:08:46.740 --> 01:08:51.180
+Dileep Karri: Okay, so it is telling me how to organize, and I will show you.
+
+435
+01:08:54.300 --> 01:08:56.240
+Dileep Karri: Everything, how it is going to, or…
+
+436
+01:08:56.370 --> 01:09:00.030
+Dileep Karri: organize everything. Should I proceed? I'll say yes.
+
+437
+01:09:03.640 --> 01:09:07.260
+Dileep Karri: And I want to show you the downloads.
+
+438
+01:09:12.880 --> 01:09:19.539
+Dileep Karri: You're seeing, right, the folder, lot of things were moving around, and, you know, bunch of stuff is happening.
+
+439
+01:09:22.609 --> 01:09:27.820
+Dileep Karri: Okay, I think it finished it very rapidly. Let me, check…
+
+440
+01:09:28.990 --> 01:09:35.200
+Dileep Karri: Go work, okay. So, it is creating subcolders, it is organizing documents by type.
+
+441
+01:09:43.040 --> 01:09:44.029
+Dileep Karri: Okay?
+
+442
+01:09:49.950 --> 01:09:55.390
+Dileep Karri: So, don't delete files, I will say don't delete, just to be on the safe side.
+
+443
+01:09:55.880 --> 01:09:58.230
+Dileep Karri: And focus only on organization.
+
+444
+01:10:11.470 --> 01:10:13.400
+Dileep Karri: So, if you go to Images.
+
+445
+01:10:14.060 --> 01:10:20.700
+Dileep Karri: Okay? It is supposed to organize these images also. Let us see if it is able to organize the images or not.
+
+446
+01:10:26.200 --> 01:10:27.960
+Dileep Karri: There you go. Images.
+
+447
+01:10:28.340 --> 01:10:31.919
+Dileep Karri: Organized into logos, photos, and screenshots.
+
+448
+01:10:32.650 --> 01:10:39.909
+Dileep Karri: So, it is looking at the file type, the file content, and understanding what it is, and organizing. It's not actually reading them.
+
+449
+01:10:41.000 --> 01:10:41.970
+Dileep Karri: Okay?
+
+450
+01:10:44.630 --> 01:10:48.960
+Dileep Karri: So that's the power of… Go work.
+
+451
+01:10:49.170 --> 01:11:00.250
+Dileep Karri: Okay? So, it has kind of, you know, done the stuff, and it is saying it has cleaned up everything all right. Then let me look at the AI advice from top leaders.
+
+452
+01:11:03.670 --> 01:11:11.319
+Dileep Karri: So, this is the one. Amjad Massad says, train your idea generation muscle, learn AI-native coding not
+
+453
+01:11:11.610 --> 01:11:18.000
+Dileep Karri: traditional coding. Develop debugging as your core skill. Build working prototypes, not specs.
+
+454
+01:11:18.490 --> 01:11:22.760
+Dileep Karri: Then, Chip Huen is saying, talk to users, not the AI news cycle.
+
+455
+01:11:23.410 --> 01:11:36.129
+Dileep Karri: Build micro tools from your frustrations, develop systems thinking. Kevin Wheel, CPO, OpenAI, build at the edge of model capabilities. If your product barely works today.
+
+456
+01:11:36.930 --> 01:11:41.290
+Dileep Karri: keep going, because the AI models you use today are the worst you'll ever see.
+
+457
+01:11:41.920 --> 01:11:52.649
+Dileep Karri: Okay, great, idea, great, this thing. Learn to write evals, we'll come to evals later. Break problems down and use model ensembles, give examples in your prompts.
+
+458
+01:11:52.740 --> 01:12:04.040
+Dileep Karri: Know how things work under the hood, develop eloquence, increase your exposure. So, I have not read or gone through any of the transcripts, etc, all that.
+
+459
+01:12:04.730 --> 01:12:09.879
+Dileep Karri: Right? I just gave it the folder. It is surfacing the intelligence from the folder.
+
+460
+01:12:10.550 --> 01:12:16.660
+Dileep Karri: Okay? That's why it became very, very viral. Okay, I'm sure I'll share this with all of you.
+
+461
+01:12:16.760 --> 01:12:19.020
+Dileep Karri: Okay? In fact, I'll do this.
+
+462
+01:12:19.890 --> 01:12:22.399
+Dileep Karri: Give me a PDF.
+
+463
+01:12:23.090 --> 01:12:26.530
+Dileep Karri: with the… Advice.
+
+464
+01:12:26.900 --> 01:12:30.840
+Dileep Karri: Mutely… formatted.
+
+465
+01:12:31.000 --> 01:12:35.260
+Dileep Karri: So that I can… share… With?
+
+466
+01:12:35.630 --> 01:12:37.640
+Dileep Karri: AI generalists.
+
+467
+01:12:48.310 --> 01:12:53.749
+Dileep Karri: So now it is going to create a professionally formatted PDF, which I'll just attach it to the Zoom chat.
+
+468
+01:12:57.840 --> 01:13:04.020
+Dileep Karri: So, it is figuring out that there is a library that is required to create PDFs, so it is installing that library.
+
+469
+01:13:04.360 --> 01:13:19.990
+Dileep Karri: Okay? So what it does is, it works in something called Sandbox. Okay, co-work. So what it means is that it tries to work on a particular isolated system where it uses and tries to build the various stuff that you are seeing.
+
+470
+01:13:22.410 --> 01:13:24.910
+Dileep Karri: And underneath it, it is just doing coding.
+
+471
+01:13:25.490 --> 01:13:30.790
+Dileep Karri: PDF creation is nothing, but it is doing just coding underneath and creating the PDF.
+
+472
+01:13:38.120 --> 01:13:42.089
+Dileep Karri: Okay, so once this is done right, what we…
+
+473
+01:13:45.500 --> 01:13:55.379
+Dileep Karri: development… What I'll do is, I will take the engineering as marketing stuff, try to surface some ideas.
+
+474
+01:13:55.590 --> 01:13:57.799
+Dileep Karri: Okay, are you not able to hear me?
+
+475
+01:13:58.750 --> 01:14:00.170
+Dileep Karri: Let me check…
+
+476
+01:14:03.660 --> 01:14:04.970
+Dileep Karri: Okay, yeah.
+
+477
+01:14:05.110 --> 01:14:09.000
+Dileep Karri: Okay, I think just a little blip, that's all.
+
+478
+01:14:11.760 --> 01:14:30.190
+Dileep Karri: Alright, so what I want to do is, I will use the engineering as marketing framework to figure out what tool you can… we can build right now, and then try to use a very powerful cloud code workflow to plan and build the scene.
+
+479
+01:14:30.370 --> 01:14:44.589
+Dileep Karri: As I'm building, I'll explain you the different steps of how I can use Cloud Code for any kind of vibe coding and other things. Then, non-coding tasks, I have given you a demonstration, we will see a few more later on.
+
+480
+01:14:45.440 --> 01:14:46.650
+Dileep Karri: Okay, fair enough.
+
+481
+01:14:47.070 --> 01:14:48.110
+Dileep Karri: Right?
+
+482
+01:14:48.600 --> 01:14:49.440
+Dileep Karri: Awesome.
+
+483
+01:14:51.140 --> 01:15:02.239
+Dileep Karri: And what I'll do is, I will use Claude Code itself, in a way, to kind of figure out the ideas or tools I would like to build.
+
+484
+01:15:03.420 --> 01:15:07.130
+Dileep Karri: And I'll show you how I'll do. So I'll start off on co-work.
+
+485
+01:15:07.410 --> 01:15:10.780
+Dileep Karri: a few of the things, and then I will get into
+
+486
+01:15:35.390 --> 01:15:38.520
+Dileep Karri: Hmm… Where is it stored?
+
+487
+01:15:48.510 --> 01:15:51.400
+Dileep Karri: It is not there for Windows yet, okay?
+
+488
+01:15:51.580 --> 01:15:57.000
+Dileep Karri: So, let me… Check-in documents…
+
+489
+01:16:03.970 --> 01:16:09.979
+Dileep Karri: So these are all the transcripts, I'm just checking if… The PDF was created here.
+
+490
+01:16:13.850 --> 01:16:15.289
+Dileep Karri: Yeah, here it is.
+
+491
+01:16:17.850 --> 01:16:18.899
+Dileep Karri: There you go.
+
+492
+01:16:20.070 --> 01:16:21.450
+Dileep Karri: the PDF.
+
+493
+01:16:22.000 --> 01:16:23.930
+Dileep Karri: Neatly formatted.
+
+494
+01:16:35.340 --> 01:16:36.990
+Dileep Karri: And what I'll do is…
+
+495
+01:16:57.230 --> 01:17:00.880
+Dileep Karri: It is coming on your Zoom chat. You can download it now.
+
+496
+01:17:07.260 --> 01:17:18.719
+Dileep Karri: Okay? You see this right? I… that is the document intelligence that Claude has become very good, and why it has been very good is because its models are really, really good.
+
+497
+01:17:19.000 --> 01:17:29.290
+Dileep Karri: Okay? So, it is all about the fundamental model power. The fundamental model power is good, and then anything you try to do on top of it becomes 10x super good.
+
+498
+01:17:29.920 --> 01:17:36.239
+Dileep Karri: Okay, so now what I'll do is, we will use Claude Co-work for a very interesting thing.
+
+499
+01:17:36.590 --> 01:17:42.329
+Dileep Karri: Okay? So for that first thing I will require is, I will require the framework
+
+500
+01:17:42.630 --> 01:17:45.099
+Dileep Karri: That we had seen over here.
+
+501
+01:17:46.110 --> 01:17:57.020
+Dileep Karri: Okay, so what I'll do is, I will save this image, as, ENG1?
+
+502
+01:18:00.400 --> 01:18:01.460
+Dileep Karri: And…
+
+503
+01:18:07.490 --> 01:18:10.219
+Dileep Karri: Okay? So, I have done this.
+
+504
+01:18:11.150 --> 01:18:16.029
+Dileep Karri: Okay, so now I'm going to go with a workflow to kind of figure out
+
+505
+01:18:16.680 --> 01:18:19.260
+Dileep Karri: what problem I want to solve.
+
+506
+01:18:19.500 --> 01:18:22.760
+Dileep Karri: And then try to solve that problem using clot code.
+
+507
+01:18:23.980 --> 01:18:32.270
+Dileep Karri: Okay? Clear. Do you guys want a quick water break for 2 minutes? Because the next one is going to be an intense workflow. A quick water break?
+
+508
+01:18:32.900 --> 01:18:49.189
+Dileep Karri: Right? So, I'll keep the screen on. Okay, let's go for a quick water break, for, like, 2-3 minutes, and we'll come back and resume. After that, expect it to be a good 45-minute uninterrupted workflow, where you require a lot of concentration.
+
+509
+01:18:49.530 --> 01:19:01.550
+Dileep Karri: All right, so yeah, we'll wait for you guys. Please take a quick water break and come. For those of you who are here, if you have any questions, you can put in the chat, I'll keep answering while people come from the water break.
+
+510
+01:19:08.460 --> 01:19:20.459
+Dileep Karri: So basically, the workflow I'm trying to build is trying to use some good advice that is out there, and how do you actionize that website, that advice. That is what I'm trying to do that.
+
+511
+01:19:33.900 --> 01:19:38.779
+Dileep Karri: Okay, we'll start at around 8.46. In 2 minutes, we'll start.
+
+512
+01:20:06.700 --> 01:20:08.529
+Dileep Karri: So, easily, 5.
+
+513
+01:20:08.960 --> 01:20:16.359
+Dileep Karri: 5 tasks in parallel without any thing you can do. I know people who have done 10 tasks also, but
+
+514
+01:20:16.840 --> 01:20:21.659
+Dileep Karri: I think tokens flew away like anything, but 5 tasks, easily, we can do.
+
+515
+01:21:14.320 --> 01:21:24.290
+Dileep Karri: Yes, output is actually stored in the same folder, because you have given access and permissions to the same folder, so what Cowork does is, it will put the output also in the same folder.
+
+516
+01:21:43.430 --> 01:22:02.849
+Dileep Karri: So, what is happening, Lipsa, there is your context token limits are expiring, okay? The context is losing, okay? What I'll do is, before I start, right, I will also tell you an alternate tool that is available, so you guys can check it out, and then I'll come to the workflow, and you can work with the same.
+
+517
+01:22:23.290 --> 01:22:24.940
+Dileep Karri: One more minute to go.
+
+518
+01:22:27.100 --> 01:22:35.239
+Dileep Karri: I actually did not use Gemini AI Ultra so much to really make the judgment. Using,
+
+519
+01:22:36.290 --> 01:22:38.940
+Dileep Karri: Most of, Cloud Pro.
+
+520
+01:22:39.220 --> 01:22:45.190
+Dileep Karri: Cloud Desktop, I think, is a pretty stable product now. I think if you're facing some problems, right.
+
+521
+01:22:45.730 --> 01:22:51.440
+Dileep Karri: Best is to try to reinstall the latest version. I think that will be, better.
+
+522
+01:22:52.520 --> 01:22:56.980
+Dileep Karri: So, in a way, right, Gemini Ultra, right, it is a bundle subscription.
+
+523
+01:22:57.630 --> 01:23:10.059
+Dileep Karri: Okay, so what it means is, I am not just getting Gemini AI, I am getting so much Google Drive space, I am getting so much other tool credits, I am getting anti-gravity credits, etc.
+
+524
+01:23:10.060 --> 01:23:19.230
+Dileep Karri: So, Gemini is playing the game of bundled subscription, so that when people sign up for Gemini, and that is why, actually, Gemini acquired a part of,
+
+525
+01:23:19.380 --> 01:23:32.249
+Dileep Karri: You know, Windsurf. So, for guys who don't know, the founder of Windsurf and a small core team was acquired by Google, and that is Anti-Gravity. So, Anti-Gravity is nothing but windsurf older version.
+
+526
+01:23:32.680 --> 01:23:38.289
+Dileep Karri: Windsurf's newer version is Cognition, which is a team which acquired the rest of Windsurf.
+
+527
+01:23:38.880 --> 01:23:51.549
+Dileep Karri: Okay? And, pretty interesting how the politics take place, because there is a lot of antitrust legislation in US right now, so therefore Google could not directly buy out Windsurf.
+
+528
+01:23:52.050 --> 01:23:59.360
+Dileep Karri: So instead, they acqui-hired a portion of the team, and that is exactly what Meta did to Scale AI.
+
+529
+01:24:01.330 --> 01:24:13.400
+Dileep Karri: Okay? So, Gemini, see, we should understand that Google has got unlimited watches of money, plus they don't have to rely on GPUs. They have their own TPUs that they work with.
+
+530
+01:24:14.170 --> 01:24:16.850
+Dileep Karri: Okay, so they don't depend on NVIDIA.
+
+531
+01:24:17.130 --> 01:24:25.339
+Dileep Karri: So they have, like, if there is anybody whom I bet to will win, I have my bets on Google.
+
+532
+01:24:26.060 --> 01:24:28.370
+Dileep Karri: Right? At least in the consumer space.
+
+533
+01:24:29.050 --> 01:24:43.930
+Dileep Karri: If you had asked me this question one year back, I would have said, there is no way, but right now, the way it is shipping, the way they are doing stuff, right? Google AI Studio, right? The wipe coder in Google AI Studio is almost equal to Bolt and Lovable.
+
+534
+01:24:45.210 --> 01:24:47.260
+Dileep Karri: Okay, they have gone to that extent.
+
+535
+01:24:48.290 --> 01:25:03.619
+Dileep Karri: All right, so let's resume our session right now. So, one of the, like, if you are feeling Claude Code code is a little difficult to use, etc, what you can do is, you can actually use OpenCode. Open code is…
+
+536
+01:25:03.660 --> 01:25:11.649
+Dileep Karri: something that has been doing very, very well, okay? So now you have a desktop app also available in beta on
+
+537
+01:25:11.700 --> 01:25:17.840
+Dileep Karri: macOS, Windows, and Linux. Okay, so this is like an alternative to Cloud Code.
+
+538
+01:25:19.660 --> 01:25:33.000
+Dileep Karri: Okay? And, in fact, what had happened, is, you, earlier, Claude banned them from using open code, okay? Because open code, when you attach,
+
+539
+01:25:33.000 --> 01:25:44.460
+Dileep Karri: say, Anthropic API, it became Claude code and even powerful than that. So the guys at Anthropic panicked and restricted access to Claude for this particular open code.
+
+540
+01:25:44.650 --> 01:25:56.069
+Dileep Karri: Okay? But, I think now they have restored, but in case they don't restore also, you can attach Gemini 3 Pro, you can attach any of the models that you want, and you can install it as it is.
+
+541
+01:25:56.360 --> 01:26:10.720
+Dileep Karri: Okay? So, you can say download now, and you can go to a different desktop on Mac OS, Windows, etc, and you can download it, and you can also integrate it exactly as needed.
+
+542
+01:26:10.720 --> 01:26:20.569
+Dileep Karri: Okay? So, open code is, like, you will have to provide… need, you know, you can work with local models for free, but you need to understand that local models are not
+
+543
+01:26:20.770 --> 01:26:22.070
+Dileep Karri: So great.
+
+544
+01:26:22.860 --> 01:26:29.809
+Dileep Karri: Okay? So you need, so if you have, local models, you don't have to pay anything.
+
+545
+01:26:30.360 --> 01:26:38.689
+Dileep Karri: But if you want to work with, say, any Anthropic API or any kind of API, you'll have to pay on the API stuff.
+
+546
+01:26:39.750 --> 01:26:44.540
+Dileep Karri: So maybe start off with the less costly model first.
+
+547
+01:26:44.700 --> 01:26:48.750
+Dileep Karri: And then keep upgrading, so that is the way you can work with open code.
+
+548
+01:26:50.210 --> 01:26:58.349
+Dileep Karri: Okay? So, I would say this is pretty decent. I have not really played around with it, but I heard very good things about it.
+
+549
+01:27:00.090 --> 01:27:05.019
+Dileep Karri: So I thought that for people who are a little hesitant to play with Claude code.
+
+550
+01:27:05.360 --> 01:27:11.160
+Dileep Karri: or a little worried about the subscription, this could be a easy way to kind of
+
+551
+01:27:11.380 --> 01:27:12.799
+Dileep Karri: Get into the stuff.
+
+552
+01:27:13.120 --> 01:27:21.070
+Dileep Karri: Okay, so open code is the option. Alright? So now, what I'll do is… Step 1 of my workflow.
+
+553
+01:27:21.500 --> 01:27:25.639
+Dileep Karri: Okay, so I'll tell you some of the workflows I'm going to do today.
+
+554
+01:27:25.840 --> 01:27:29.470
+Dileep Karri: I'll first explain the steps, and then walk you through the demo step by step.
+
+555
+01:27:29.610 --> 01:27:34.339
+Dileep Karri: Step 1, what I'm going to do is, I'm going to find what to build.
+
+556
+01:27:39.690 --> 01:27:48.510
+Dileep Karri: Okay, so I always find that this is a great blocker for a lot of AI journalists. What should I build? Is there important stuff that I need to figure out?
+
+557
+01:27:49.050 --> 01:27:52.829
+Dileep Karri: what to build, what are the things I need to build, etc.
+
+558
+01:27:52.950 --> 01:28:04.229
+Dileep Karri: is, one thing, right? So, that is one. Yes, I told to start with unblocking strategy that is there. I will show you another approach of how I can figure out ideas to build.
+
+559
+01:28:04.420 --> 01:28:11.160
+Dileep Karri: Then, after what I build, I will do a Process called spec-driven development.
+
+560
+01:28:15.670 --> 01:28:21.759
+Dileep Karri: I will demonstrate a process called spec-driven development, which is a very polished
+
+561
+01:28:25.130 --> 01:28:27.290
+Dileep Karri: professional-level development.
+
+562
+01:28:32.910 --> 01:28:34.390
+Dileep Karri: for vibe coders.
+
+563
+01:28:36.920 --> 01:28:42.269
+Dileep Karri: Okay, so what it does is, you try to act like a product manager.
+
+564
+01:28:45.310 --> 01:28:47.529
+Dileep Karri: And you simulate that process.
+
+565
+01:28:53.610 --> 01:28:56.900
+Dileep Karri: And you kind of… Replicated.
+
+566
+01:29:00.910 --> 01:29:02.370
+Dileep Karri: in Cloud Code.
+
+567
+01:29:05.970 --> 01:29:13.330
+Dileep Karri: Okay? So first, finding what to build. This, I can use Claude Code, but first I'll use Claude Co-work.
+
+568
+01:29:13.520 --> 01:29:30.639
+Dileep Karri: Because it is an easier tool to kind of handle right now, so I'll use Claude Cowork itself to do this. Then, for the spec-driven development, the setup, etc, I will start by explaining Cloud Code, what are the things you should do, what are the main commands.
+
+569
+01:29:30.640 --> 01:29:35.530
+Dileep Karri: You should understand and take care of, and then we will keep working from there.
+
+570
+01:29:35.940 --> 01:29:38.500
+Dileep Karri: Okay? So first, finding what to build.
+
+571
+01:29:38.620 --> 01:29:44.880
+Dileep Karri: for that, Open Cloud Desktop.
+
+572
+01:29:49.280 --> 01:29:51.590
+Dileep Karri: I start a new task.
+
+573
+01:29:53.110 --> 01:30:04.089
+Dileep Karri: I'll keep it downloads only, and now what I'll do is, I will attach the files. Instead of saying, go search for the files, etc, I'll directly attach the files
+
+574
+01:30:05.800 --> 01:30:08.139
+Dileep Karri: Engineering 1 and Engineering 2.
+
+575
+01:30:11.370 --> 01:30:15.850
+Dileep Karri: Okay? So… Here is the prompt I'll give.
+
+576
+01:30:16.010 --> 01:30:33.789
+Dileep Karri: I have attached two screenshots of a process of engineering as marketing that has been used by Bhanu Teja for off-site GPD. I want to replicate that process to figure out what are some free tools that I can build.
+
+577
+01:30:34.650 --> 01:30:50.920
+Dileep Karri: I want… I have a newsletter writing business where I run the newsletter subscriptions, or I run the newsletters for companies, or I run newsletters for AI creators, I run newsletters for pretty much everybody out there.
+
+578
+01:30:51.120 --> 01:31:04.369
+Dileep Karri: Now, if I'm trying to service such people with this engineering as marketing strategy that I have mentioned, what are the free tools or ideas for free tools that you think I can really build?
+
+579
+01:31:05.870 --> 01:31:24.070
+Dileep Karri: Okay, here I explained one idea I had in my mind. If you remember recall, this was the idea I had built in the beginning, when I did the sessions, right? Now, if you got any ideas, okay, you can follow the same process. And for this, you don't really require co-work also, you can do it in any LLM that you want.
+
+580
+01:31:24.720 --> 01:31:31.999
+Dileep Karri: I am doing co-work because it is little agentic in nature, and I'll show you why also, okay? So let's go.
+
+581
+01:31:41.760 --> 01:31:46.289
+Dileep Karri: So, as it is doing, let me walk you through the steps over here.
+
+582
+01:31:46.440 --> 01:31:48.150
+Dileep Karri: Okay? So…
+
+583
+01:31:56.630 --> 01:31:59.599
+Dileep Karri: Here you see, right, there is,
+
+584
+01:31:59.980 --> 01:32:09.869
+Dileep Karri: you know, for reading different AI figures, it actually ran multiple parallel AI agents to read each of them. That's why it was very fast.
+
+585
+01:32:10.410 --> 01:32:23.309
+Dileep Karri: If I were to do it linearly, it wouldn't have been such fast. It figured out that there are too many things, so in a way, it was reading 5 agents were running in parallel, and 5 agents were trying to read everything overall.
+
+586
+01:32:24.110 --> 01:32:25.950
+Dileep Karri: Okay, here also, same thing.
+
+587
+01:32:29.330 --> 01:32:33.410
+Dileep Karri: And then, entire thing was pretty, okay?
+
+588
+01:32:35.940 --> 01:32:45.009
+Dileep Karri: So, it is asking questions, what's the primary pain point you solve for your clients? Is it writing contents, growing subscribers, etc? I'll say growth.
+
+589
+01:32:45.510 --> 01:32:46.909
+Dileep Karri: I think,
+
+590
+01:32:51.090 --> 01:32:54.679
+Dileep Karri: I say for now, writing content, but it's, I can…
+
+591
+01:32:55.320 --> 01:32:58.570
+Dileep Karri: I can do both. I can… I'll do both of them.
+
+592
+01:32:59.540 --> 01:33:01.489
+Dileep Karri: Okay? Then,
+
+593
+01:33:02.390 --> 01:33:08.650
+Dileep Karri: What's the ideal customer? Solopreneurs or creators. For now, I want to go with solopreneurs or creators.
+
+594
+01:33:09.120 --> 01:33:10.220
+Dileep Karri: For no.
+
+595
+01:33:12.560 --> 01:33:14.970
+Dileep Karri: Okay? So, once I provide that.
+
+596
+01:33:15.080 --> 01:33:21.669
+Dileep Karri: Writing content plus growing subscribers for solopreneur creators, great news for engineering as marketing approach.
+
+597
+01:33:21.790 --> 01:33:33.370
+Dileep Karri: Okay? So, let me brainstorm some tool ideas using the RF keyword strategy from the screenshots. Here are free tools organized by category. Newsletter writing tools.
+
+598
+01:33:33.700 --> 01:33:36.329
+Dileep Karri: Newsletter growth, tools.
+
+599
+01:33:36.610 --> 01:33:38.830
+Dileep Karri: Content planning tools.
+
+600
+01:33:38.950 --> 01:33:53.670
+Dileep Karri: Okay, newsletter benchmark, this thing. Start with 3 to 4 tools that are high volume, keywords, etc, and all that. The subject line generator, newsletter name generator, and content calendar generator, hit all criteria.
+
+601
+01:33:54.760 --> 01:34:05.090
+Dileep Karri: Okay? So, now I will say… This, do all the… Above 3 steps.
+
+602
+01:34:05.920 --> 01:34:19.239
+Dileep Karri: So what I'm doing is, these are the free tools that I can build. Now, I am saying, do everything as an agent, and tell me, based on the keyword research, on the volume, effort, relevancy, what is available.
+
+603
+01:34:19.810 --> 01:34:28.070
+Dileep Karri: Now, one thing I can do better is I can directly go to the tools mentioned and do that, but for brevity's sake, I'm using the agent itself.
+
+604
+01:34:28.660 --> 01:34:33.139
+Dileep Karri: Okay, how can I enable this? One good way I can do that is.
+
+605
+01:34:33.330 --> 01:34:48.359
+Dileep Karri: I can actually set up the RF's MCP server itself. I can have a go… go for a RF account, set up the MCP server, and attach it to Cloud Code. I will show you also that, maybe, in the next session, if time permits, okay?
+
+606
+01:34:48.810 --> 01:34:56.239
+Dileep Karri: RF, A-H-R-E-F, it's a keyword search tool. So, basically, it'll tell you what is the volume of keywords
+
+607
+01:34:57.060 --> 01:35:00.210
+Dileep Karri: How are people searching for the particular term, etc.
+
+608
+01:35:00.610 --> 01:35:04.040
+Dileep Karri: It is… I think it is…
+
+609
+01:35:05.030 --> 01:35:12.730
+Dileep Karri: refs, yes. So, it is a paid service, but it has got generous free tire. For what we are doing, you don't require a paid account, actually.
+
+610
+01:35:13.420 --> 01:35:17.239
+Dileep Karri: And there are numerous tools which can, which is able to do that.
+
+611
+01:35:18.410 --> 01:35:27.949
+Dileep Karri: Okay, so you see here, researching keywords for newsletter tools, prioritization spreadsheet, build a prototype, verify and review all deliverables.
+
+612
+01:35:28.050 --> 01:35:32.610
+Dileep Karri: Okay? So what I can do is… I'll just stop for now.
+
+613
+01:35:33.510 --> 01:35:38.590
+Dileep Karri: And I'll say, don't… build… a prototype.
+
+614
+01:35:40.610 --> 01:35:44.939
+Dileep Karri: just… Validate the ideas for me.
+
+615
+01:35:46.430 --> 01:35:48.549
+Dileep Karri: I will build separately.
+
+616
+01:35:52.890 --> 01:36:02.629
+Dileep Karri: So, why I'm showing this is, tomorrow, you found another strategy of a founder, who said, you know what, I did my growth via this strategy.
+
+617
+01:36:02.810 --> 01:36:17.159
+Dileep Karri: You can actually, you know, you reverse engineer their strategy by giving to Claude Code or Co-work, and try to reverse engineer, okay, they have done this for their domain, for my domain, use their strategy, and give me the steps.
+
+618
+01:36:17.750 --> 01:36:25.010
+Dileep Karri: Okay, so you can actually evolve your strategy, or you can evolve your stuff with that approach.
+
+619
+01:36:30.770 --> 01:36:33.160
+Dileep Karri: So, as I said, co-work, right?
+
+620
+01:36:33.560 --> 01:36:37.709
+Dileep Karri: If you are… if you're not on paid account, it doesn't come.
+
+621
+01:36:37.810 --> 01:36:41.119
+Dileep Karri: Plus, it is just a tool which was released one week back.
+
+622
+01:36:41.690 --> 01:36:51.510
+Dileep Karri: Okay? So, for now, you can just think of it as a demonstration, if you're unable to do it, and later on, when you get the access, you can also try it out.
+
+623
+01:37:03.290 --> 01:37:09.260
+Dileep Karri: Yes, you need to have a paid account. It is a pro and… Max, subscription.
+
+624
+01:37:10.930 --> 01:37:22.620
+Dileep Karri: Yes, if you do not have access to co-work, right, I think Manus and Genspark will be a great alternative, but the output I have found is questionable in Manus and Genspark.
+
+625
+01:37:23.000 --> 01:37:26.440
+Dileep Karri: earlier, Genspark was good. I think I would rate…
+
+626
+01:37:26.810 --> 01:37:34.589
+Dileep Karri: maybe Genspark slightly better, but with Manus getting acquired by Meta, I'm not really sure how much Meta is focused on growing Manus now.
+
+627
+01:37:35.240 --> 01:37:44.440
+Dileep Karri: Okay, because Meta has this, you know, notoriety of acquiring companies and asking the people to do something else by neglecting the product.
+
+628
+01:37:48.480 --> 01:37:58.829
+Dileep Karri: Okay, so you can do this process. Claude LLM, the problem is it won't have the agentic capabilities that this is, showing.
+
+629
+01:37:59.010 --> 01:38:02.650
+Dileep Karri: Okay? But you can do this in Cloud code also.
+
+630
+01:38:02.850 --> 01:38:10.890
+Dileep Karri: Okay? The same prompt that I have put over here, I can put the same prompt inside Claude Code, and it'll work.
+
+631
+01:38:21.020 --> 01:38:27.500
+Dileep Karri: So it is going to actually, use the Excels, it'll actually create a prioritization spreadsheet for me.
+
+632
+01:38:28.200 --> 01:38:32.400
+Dileep Karri: Okay, it'll be interesting to see how that spreadsheet is going to be built.
+
+633
+01:38:36.670 --> 01:38:45.499
+Dileep Karri: Yes, it is mainly for multitasking, and it is a layer on top of this. So, for example, if I were to do it
+
+634
+01:38:46.440 --> 01:38:48.140
+Dileep Karri: Ko, you know, say…
+
+635
+01:38:48.620 --> 01:38:56.789
+Dileep Karri: Cloud code, which is available for everybody, right? So, I say, I attach the folder over here.
+
+636
+01:38:56.980 --> 01:39:09.189
+Dileep Karri: And, here I can choose the models and whatever I require. And the best part is, I can… if I have MCP servers, I can turn on and off the MCP servers over here.
+
+637
+01:39:10.440 --> 01:39:21.760
+Dileep Karri: Okay? So, if I want, I can switch on the RF MCP server, or set up the MCP server. Cloud code also, you can do multitasking, by the way. Okay? And
+
+638
+01:39:21.930 --> 01:39:31.489
+Dileep Karri: That is, more in terminal, okay, and not anywhere else. So, here, I'll attach…
+
+639
+01:39:34.760 --> 01:39:36.960
+Dileep Karri: The things, and
+
+640
+01:39:38.750 --> 01:39:43.850
+Dileep Karri: Here I'll do, and when I say run, this will also start running in a similar manner.
+
+641
+01:39:44.070 --> 01:39:51.990
+Dileep Karri: So, I am doing it in Cloud Desktop, I can do it in any terminal, any place, anywhere that you can do that.
+
+642
+01:39:53.170 --> 01:39:54.270
+Dileep Karri: Okay?
+
+643
+01:39:55.330 --> 01:40:11.530
+Dileep Karri: MCP servers, etc, I will speak about it, right? How to add MCP servers, I think we discussed a lot in the accelerator program, like how you can attach MCP servers, how to make cloud code work with MCP servers, we will see that.
+
+644
+01:40:13.610 --> 01:40:19.479
+Dileep Karri: Okay, in the cloud code attached over here, if you see, all your connectors are
+
+645
+01:40:19.610 --> 01:40:26.750
+Dileep Karri: all your things are present right here. So anything you want to turn on, turn off, you can do that right away.
+
+646
+01:40:31.860 --> 01:40:34.250
+Dileep Karri: Claude Code and NATEN, right?
+
+647
+01:40:34.520 --> 01:40:35.340
+Dileep Karri: Hmm.
+
+648
+01:40:36.010 --> 01:40:37.489
+Dileep Karri: It is possible.
+
+649
+01:40:37.650 --> 01:40:39.359
+Dileep Karri: Okay? I will show you that.
+
+650
+01:40:39.540 --> 01:40:41.810
+Dileep Karri: Okay, maybe towards the end, I will show you.
+
+651
+01:40:51.840 --> 01:40:56.259
+Dileep Karri: Okay, so let me… Open the spreadsheet.
+
+652
+01:41:01.360 --> 01:41:13.240
+Dileep Karri: Okay, I think Excel files are not… Opening, so let me… So, here… I will say… feed.new.
+
+653
+01:41:17.090 --> 01:41:21.440
+Dileep Karri: Import, upload, Bros…
+
+654
+01:41:30.480 --> 01:41:31.780
+Dileep Karri: Yeah, this is the one.
+
+655
+01:41:43.390 --> 01:41:52.620
+Dileep Karri: Okay, so now I have the newsletter tool ideas, the prioritization summary, and the CTA strategy, according to…
+
+656
+01:41:52.950 --> 01:41:54.480
+Dileep Karri: Everything else.
+
+657
+01:41:54.940 --> 01:41:58.310
+Dileep Karri: Okay, so I'll… garlic.
+
+658
+01:42:00.800 --> 01:42:04.200
+Dileep Karri: newsletter… Strategy.
+
+659
+01:42:04.940 --> 01:42:07.300
+Dileep Karri: newsletter tools.
+
+660
+01:42:08.060 --> 01:42:09.030
+Dileep Karri: Okay?
+
+661
+01:42:09.570 --> 01:42:16.340
+Dileep Karri: And I will… share with anyone, can the link can view.
+
+662
+01:42:17.690 --> 01:42:18.690
+Dileep Karri: Okay?
+
+663
+01:42:21.070 --> 01:42:23.240
+Dileep Karri: And I'll… Pop it.
+
+664
+01:42:23.390 --> 01:42:27.119
+Dileep Karri: Alright, so now I have got a bunch of ideas.
+
+665
+01:42:27.390 --> 01:42:29.679
+Dileep Karri: Right? That I can think of.
+
+666
+01:42:30.390 --> 01:42:42.819
+Dileep Karri: Okay? So, according to the prioritization summary, it is saying that newsletter content calendar generator, no low competition, high references, perfect leading to your services.
+
+667
+01:42:44.660 --> 01:42:47.330
+Dileep Karri: Okay, so I will start off with…
+
+668
+01:42:47.920 --> 01:42:53.609
+Dileep Karri: the newsletter content calendar generator as my tool that I want to white code.
+
+669
+01:42:54.440 --> 01:42:58.930
+Dileep Karri: Okay? Clear so far with the process. I used Claude Kovark.
+
+670
+01:42:59.510 --> 01:43:04.170
+Dileep Karri: Two, Break down and reverse engineer an existing strategy.
+
+671
+01:43:04.170 --> 01:43:20.709
+Dileep Karri: I am… see, for me to come up with these ideas, it is very, very difficult, right? I would rather follow the strategy of somebody else. So tomorrow, if in your domain, you find a Reddit thread saying that, you know what, I have built an agency, I followed this same playbook.
+
+672
+01:43:20.960 --> 01:43:32.180
+Dileep Karri: You can then take that playbook, adapt it to your thing, and try to either build a lead, you know, this can work for anything. Suppose you want to build a landing page.
+
+673
+01:43:32.180 --> 01:43:44.109
+Dileep Karri: Right? And some people say there is a particular landing page, particular, you know, tutorial, etc, and all that. All of that you can typically do that.
+
+674
+01:43:44.110 --> 01:43:52.479
+Dileep Karri: Then you figure out your, whatever you want to do, and then you can vibe code it, vibe market it, build it, etc, the way you want.
+
+675
+01:43:53.650 --> 01:44:03.199
+Dileep Karri: Okay? So this is what I found to be a great strategy to find interesting ideas to build, and then carry it forward from there.
+
+676
+01:44:04.850 --> 01:44:14.999
+Dileep Karri: Okay, so I'm going to work with the calendar generator, newsletter content calendar generator, and, this,
+
+677
+01:44:16.160 --> 01:44:24.399
+Dileep Karri: Overall, and see, co-work, it'll ask you if it is deleting the file. You have to give it permissions to read the file.
+
+678
+01:44:27.180 --> 01:44:37.199
+Dileep Karri: Okay? So, quick summary of what I had done. I found Banu Teja's strategy of hitting $13,000 MRR traffic by building free tools.
+
+679
+01:44:37.260 --> 01:44:50.370
+Dileep Karri: It is something that feels very interesting. He published his complete playbook for others to follow. I just took that playbook, adapted to my use case, and trying to figure out what are those tools that I can build.
+
+680
+01:44:50.410 --> 01:45:03.510
+Dileep Karri: Then, I asked co-work to search for the search volumes, etc, and all that, and figure out what is the idea that I want to build. Now, I'm going to start building out that particular idea.
+
+681
+01:45:05.520 --> 01:45:06.480
+Dileep Karri: Okay?
+
+682
+01:45:07.370 --> 01:45:17.990
+Dileep Karri: See, prompt and all, I dedicated the prompt, right? So, you should be able to capture that. There is nothing to share over here, right? You just have to follow that process, that's all.
+
+683
+01:45:20.190 --> 01:45:22.730
+Dileep Karri: See, now you are, you are…
+
+684
+01:45:22.900 --> 01:45:29.579
+Dileep Karri: Climbing a summit, right? Should not ask about sharing the prompts, etc. It is just about processes.
+
+685
+01:45:30.000 --> 01:45:30.990
+Dileep Karri: Okay?
+
+686
+01:45:37.380 --> 01:45:46.950
+Dileep Karri: All right. So, step one, we found out what to build, okay? And, what we want to build is this… sorry.
+
+687
+01:45:50.090 --> 01:45:56.149
+Dileep Karri: The newsletter content calendar generator, low competition, high frequency.
+
+688
+01:45:56.220 --> 01:46:15.189
+Dileep Karri: this thing overall. So, this is what I want to build, okay? So now, quickly, what I'll do is, I will start thinking of the features, what I want to build, etc, and then try to figure it out from there. What I want to build, what I… how do I flesh it out? That is what we will do for the rest of the session today.
+
+689
+01:46:15.830 --> 01:46:16.760
+Dileep Karri: Okay?
+
+690
+01:46:17.710 --> 01:46:20.489
+Dileep Karri: So, newsletter Content Calendar Generator.
+
+691
+01:46:21.090 --> 01:46:22.420
+Dileep Karri: I will…
+
+692
+01:46:32.580 --> 01:46:37.690
+Dileep Karri: For this, I don't require co-work or anything. Claude LLM will be sufficient for the next part.
+
+693
+01:46:38.000 --> 01:46:38.960
+Dileep Karri: Okay?
+
+694
+01:46:43.660 --> 01:46:47.190
+Dileep Karri: Or rather, I can continue from cover call. It has all the context.
+
+695
+01:46:53.070 --> 01:46:54.849
+Dileep Karri: I want to build this.
+
+696
+01:46:56.210 --> 01:46:57.759
+Dileep Karri: Can you give me?
+
+697
+01:46:58.230 --> 01:47:04.549
+Dileep Karri: an initial… Set of features…
+
+698
+01:47:08.320 --> 01:47:10.490
+Dileep Karri: for the MVP.
+
+699
+01:47:14.020 --> 01:47:19.490
+Dileep Karri: Okay? So, I want to build this, I want some initial set of features for the MVP.
+
+700
+01:47:30.480 --> 01:47:32.570
+Dileep Karri: I will say 30 days for now.
+
+701
+01:47:33.160 --> 01:47:39.370
+Dileep Karri: Then, I will say, visual calendar view for now.
+
+702
+01:47:41.190 --> 01:47:57.240
+Dileep Karri: And, should… see this? Great, right? Should users need to provide their email to get the full calendar? So, I can gate the entry if I want, okay? So, let me, I'll do with partial, preview is free, full requires email.
+
+703
+01:47:58.640 --> 01:47:59.620
+Dileep Karri: Okay?
+
+704
+01:48:01.140 --> 01:48:05.220
+Dileep Karri: So I want to provide some value, and then try to gate the content.
+
+705
+01:48:20.390 --> 01:48:34.569
+Dileep Karri: So, in CoWork, there is no such thing as plan mode or anything. That comes in Cloud Code only. So, when I go to Cloud Code, I will explain that, because here, the planning is automatically done on the slide, and it gets executed.
+
+706
+01:48:34.900 --> 01:48:41.720
+Dileep Karri: Okay, so that is, one thing, so I will… Kind of copy this part.
+
+707
+01:48:41.950 --> 01:48:49.469
+Dileep Karri: Okay? Now, I will transition into Claude Code, okay? Where I want to build this entire stuff.
+
+708
+01:48:51.130 --> 01:48:53.250
+Dileep Karri: Okay, so I'll start from scratch.
+
+709
+01:48:54.330 --> 01:49:00.199
+Dileep Karri: Okay, so first thing is, I have my AI projects, which is there in my…
+
+710
+01:49:01.860 --> 01:49:05.459
+Dileep Karri: downloads. I will create a new folder.
+
+711
+01:49:06.520 --> 01:49:11.340
+Dileep Karri: And call it Newsletter… tool.
+
+712
+01:49:12.660 --> 01:49:15.069
+Dileep Karri: Okay, so I'll call it Newsletter Tool.
+
+713
+01:49:15.480 --> 01:49:20.810
+Dileep Karri: Alright, and then I will open, say, cursor, right now.
+
+714
+01:49:22.380 --> 01:49:27.789
+Dileep Karri: And, I'll say open folder.
+
+715
+01:49:28.340 --> 01:49:33.390
+Dileep Karri: And I'll go to AI projects, and I'll go to Newsletter.
+
+716
+01:49:33.650 --> 01:49:34.320
+Dileep Karri: Tool.
+
+717
+01:49:39.240 --> 01:49:43.920
+Dileep Karri: Okay? Currently, it has got… Nothing.
+
+718
+01:49:50.920 --> 01:49:53.769
+Dileep Karri: There are no files, it is an empty file.
+
+719
+01:49:54.030 --> 01:49:57.419
+Dileep Karri: That is available, okay? So I want to start from scratch.
+
+720
+01:49:57.980 --> 01:50:01.490
+Dileep Karri: Now, here, what I want to recommend is…
+
+721
+01:50:07.940 --> 01:50:16.759
+Dileep Karri: I think everybody's able to see the desktop clearly, right? I think so. Yeah, yeah, it is clearly shared with me, I think some setting on your side.
+
+722
+01:50:17.120 --> 01:50:21.560
+Dileep Karri: Alright, so now, what I'll do is, I will also…
+
+723
+01:50:33.860 --> 01:50:34.830
+Dileep Karri: Open.
+
+724
+01:50:54.110 --> 01:50:56.770
+Dileep Karri: I don't know why it's not opening.
+
+725
+01:51:07.240 --> 01:51:09.579
+Dileep Karri: Open, Lord, Lord.
+
+726
+01:51:10.290 --> 01:51:11.300
+Dileep Karri: Expensive.
+
+727
+01:51:59.930 --> 01:52:06.089
+Dileep Karri: It's okay, so what I'll do is, I will open it on terminal only for now, because that is the one I am very comfortable with.
+
+728
+01:52:08.300 --> 01:52:18.339
+Dileep Karri: Okay? So, in Terminal, I can open multiple tabs. So, if you see Terminal, I can say New Tab, and in a different tab, again, I can…
+
+729
+01:52:18.630 --> 01:52:25.989
+Dileep Karri: You know, kind of, figure it out. Okay, so there is this Claude code, okay, it is there.
+
+730
+01:52:26.340 --> 01:52:28.570
+Dileep Karri: It is hidden like anything.
+
+731
+01:52:28.740 --> 01:52:35.389
+Dileep Karri: Let me… let me try one more time, but I'll show it in this also, because I am more comfortable, in that.
+
+732
+01:52:37.800 --> 01:52:38.870
+Dileep Karri: Okay.
+
+733
+01:53:04.170 --> 01:53:06.480
+Dileep Karri: Okay, so we have set this up.
+
+734
+01:53:07.970 --> 01:53:19.830
+Dileep Karri: So next, what I'm going to do is, I need to… Open what is called… Ryan Carson GitHub.
+
+735
+01:53:20.800 --> 01:53:30.709
+Dileep Karri: Okay, again, I'd love to kind of work with workflows which are already working with people, and Brian Carson is one such person.
+
+736
+01:53:30.840 --> 01:53:37.280
+Dileep Karri: He has built some pretty cool, things, and one of the things he has built is this.
+
+737
+01:53:39.030 --> 01:53:45.440
+Dileep Karri: you know, two markdowns called createprd.md and GenerateTasks.md.
+
+738
+01:53:45.760 --> 01:54:00.849
+Dileep Karri: Okay? So what I'm going to do now is, I'm going to just copy these files, and I'll explain what these files are for. Okay, this is a kind of, you know, a way to do what is called spec-driven development.
+
+739
+01:54:01.360 --> 01:54:07.720
+Dileep Karri: Okay, so we are going to do spec-driven development, and see if you are able to build things out in a better manner.
+
+740
+01:54:08.340 --> 01:54:18.819
+Dileep Karri: Alright, so first… I will open createprd.md, And I can… Download the raw file.
+
+741
+01:54:18.950 --> 01:54:26.120
+Dileep Karri: I'll call it… create PRD, and I will directly store it in my
+
+742
+01:54:34.530 --> 01:54:37.760
+Dileep Karri: Okay, for now, I'll state it in CreatePRD.
+
+743
+01:54:38.030 --> 01:54:43.810
+Dileep Karri: then… generate tasks.prd.
+
+744
+01:54:47.180 --> 01:54:51.659
+Dileep Karri: store it, and then I'll just take a quick
+
+745
+01:54:52.040 --> 01:55:09.409
+Dileep Karri: look overall here. So basically, the workflow here is, first, create a product requirement document where you try to lay the blueprint for your feature, where what you are building, why you are building, for whom, etc. So that is what this does. The second one is.
+
+746
+01:55:09.410 --> 01:55:19.539
+Dileep Karri: generate a task list from the PRD, and then examine the task list, and instruct the AI to work, and mark the completion overall.
+
+747
+01:55:20.160 --> 01:55:29.549
+Dileep Karri: Okay, so he has a full-fledged tutorial also, where he has explained this completely. You guys can go through the tutorial to understand, in detail.
+
+748
+01:55:30.480 --> 01:55:38.380
+Dileep Karri: Okay? So, what I'll do is, I will also… Open README.prd.
+
+749
+01:55:39.650 --> 01:55:41.679
+Dileep Karri: And I will call it process.
+
+750
+01:55:44.020 --> 01:55:46.359
+Dileep Karri: Okay, so 3 files I have.
+
+751
+01:55:46.480 --> 01:55:49.859
+Dileep Karri: downloaded. So now I'll move it to my working directory.
+
+752
+01:55:51.430 --> 01:55:55.920
+Dileep Karri: Okay, so it is there in my… Downloads.
+
+753
+01:56:00.410 --> 01:56:01.400
+Dileep Karri: Copy.
+
+754
+01:56:01.720 --> 01:56:04.949
+Dileep Karri: And… AI projects.
+
+755
+01:56:05.610 --> 01:56:08.740
+Dileep Karri: newsletter tool, and I'll paste.
+
+756
+01:56:10.830 --> 01:56:16.320
+Dileep Karri: Okay, so this is the process that I am mentioning overall.
+
+757
+01:56:16.480 --> 01:56:18.210
+Dileep Karri: Okay? And
+
+758
+01:56:18.730 --> 01:56:29.010
+Dileep Karri: Now, what I'll show you is some of the features, or some of the capabilities of Cloud Code. Like, what are the things you can understand in Cloud Code?
+
+759
+01:56:29.500 --> 01:56:30.580
+Dileep Karri: Okay?
+
+760
+01:56:30.840 --> 01:56:45.120
+Dileep Karri: what are the… where the three files are created, I showed you, right? It is there in the GitHub. I just downloaded 3 files. One file is the create PRD, generate tasks from PRD, third is the process.
+
+761
+01:56:45.800 --> 01:57:02.410
+Dileep Karri: Okay, now I will make Cloud Code follow that process for the spec-driven development. So basically, this spec-driven development process is very simple. First, I will expand the feature, what I want to build, etc, as a product PRD.
+
+762
+01:57:02.660 --> 01:57:14.419
+Dileep Karri: Okay? And then, from the PRD, I will convert it into the tasks, and I'll ask my IDE or clot code to follow those list of tasks. Okay, that's what I wanted to do.
+
+763
+01:57:15.170 --> 01:57:24.450
+Dileep Karri: Okay, so let's now go step by step. So, in AI projects, I go into… The folder, which is…
+
+764
+01:57:25.830 --> 01:57:27.100
+Dileep Karri: newsletter tool.
+
+765
+01:57:28.390 --> 01:57:31.340
+Dileep Karri: Okay, so I am into newsletter tool.
+
+766
+01:57:32.430 --> 01:57:42.520
+Dileep Karri: Okay? And I can, so I'm using some terminal commands, but don't worry, even if you don't know this, it is completely fine, you can do it from anywhere.
+
+767
+01:57:42.630 --> 01:57:50.849
+Dileep Karri: So, ls, I have got 3 files, createprd.md, generateTasks.md, and process.md.
+
+768
+01:57:51.400 --> 01:57:54.059
+Dileep Karri: Okay, I have got these 3 files over here.
+
+769
+01:57:55.530 --> 01:58:04.400
+Dileep Karri: Okay, now some important commands to do or run Claude code. So, if you're working on terminal, you can say Claude.
+
+770
+01:58:10.150 --> 01:58:15.330
+Dileep Karri: And there you go, your Cloud is set up, and you can see Claude code over here.
+
+771
+01:58:15.790 --> 01:58:18.229
+Dileep Karri: Okay? Some important commands.
+
+772
+01:58:19.010 --> 01:58:20.490
+Dileep Karri: for everything.
+
+773
+01:58:20.710 --> 01:58:30.130
+Dileep Karri: Okay? So, if you… look at model, right? You can check which is the model that is selected.
+
+774
+01:58:30.580 --> 01:58:35.620
+Dileep Karri: You can do it in the PC as well. PC also, the exact same process.
+
+775
+01:58:36.400 --> 01:58:42.830
+Dileep Karri: Okay, you can select the model. I go with the default, but I can switch to Sonnet or anything else.
+
+776
+01:58:43.550 --> 01:58:48.770
+Dileep Karri: One important command that you should check is something called usage.
+
+777
+01:58:49.740 --> 01:59:01.040
+Dileep Karri: Okay? What it does is, it tells the current, week of all models, 56% used, current weeks on it only, 16% used.
+
+778
+01:59:01.240 --> 01:59:04.250
+Dileep Karri: And, a bunch of other things.
+
+779
+01:59:05.980 --> 01:59:11.440
+Dileep Karri: Okay? The usage is your… Ever-working friend.
+
+780
+01:59:12.450 --> 01:59:15.360
+Dileep Karri: Okay? Keep checking usage always.
+
+781
+01:59:16.450 --> 01:59:22.260
+Dileep Karri: So that you'll know, okay, how far of usage are you, and what are the things that you can do.
+
+782
+01:59:24.420 --> 01:59:30.580
+Dileep Karri: Okay? So now, I will say escape, and now I have to give the prompt.
+
+783
+01:59:31.440 --> 01:59:40.310
+Dileep Karri: Okay? So here, it is just think of it like a chat terminal, and you can just put in your prompts, and Claude Code will do the building for you.
+
+784
+01:59:42.890 --> 01:59:48.300
+Dileep Karri: Okay? So before I do that, I want to do one more task.
+
+785
+01:59:49.650 --> 01:59:50.710
+Dileep Karri: Okay?
+
+786
+01:59:51.130 --> 01:59:54.620
+Dileep Karri: So can you guys tell me a great website
+
+787
+01:59:55.190 --> 02:00:06.070
+Dileep Karri: that, you know, we can use as a reference to build this product. A great website, a good design system that you guys can think of for building this process.
+
+788
+02:00:09.640 --> 02:00:12.219
+Dileep Karri: Okay? So, first thing I'll say is…
+
+789
+02:00:14.390 --> 02:00:29.030
+Dileep Karri: I want you to build the cloud.md file for initializing this project, and I want you to follow the process that is written in process.md for building the product overall.
+
+790
+02:00:33.760 --> 02:00:36.550
+Dileep Karri: Okay? So now it is,
+
+791
+02:00:36.960 --> 02:00:44.729
+Dileep Karri: trying to read process.md, okay? Do you want to proceed? Yes, allow reading from any of the files.
+
+792
+02:00:47.890 --> 02:00:54.050
+Dileep Karri: Folks, you're not getting overwhelmed by the terminal, right? It is pretty intuitive. Anybody feeling scared seeing this?
+
+793
+02:00:59.710 --> 02:01:00.720
+Dileep Karri: Okay?
+
+794
+02:01:01.410 --> 02:01:03.420
+Dileep Karri: font larger.
+
+795
+02:01:03.670 --> 02:01:08.510
+Dileep Karri: Let me see… Yep.
+
+796
+02:01:12.570 --> 02:01:13.750
+Dileep Karri: Look at this.
+
+797
+02:01:15.010 --> 02:01:30.820
+Dileep Karri: You can see newsletter tool, AI development workflow, project overview. This project uses a structured AI-assisted development workflow to build features systematically. The workflow enforces step-by-step development with verification checkpoints.
+
+798
+02:01:30.820 --> 02:01:41.000
+Dileep Karri: Follow this exact process for all development. Reference createprd.md for the PRD creation process, ask 3 to 5 clarification questions.
+
+799
+02:01:41.000 --> 02:01:57.480
+Dileep Karri: Do not start implementing, wait for user approval of the PRD. Once the PRD is created, follow this. Execute this. This is the directory structure, this is the key files, this is the working principles, etc. Do you want to create? Yes.
+
+800
+02:02:03.740 --> 02:02:09.440
+Dileep Karri: Then it is saying something, do you want to create the tasks directory, etc? I will say.
+
+801
+02:02:09.820 --> 02:02:12.070
+Dileep Karri: Yes, and always hello.
+
+802
+02:02:17.160 --> 02:02:34.480
+Dileep Karri: Okay, quick recap of the workflow. What I have done is, I want to follow a spec-driven development workflow, and for the spec-driven development workflow, what I have done is, I have put the three files, the readme.md file, which I renamed as process.md.
+
+803
+02:02:34.480 --> 02:02:49.389
+Dileep Karri: Then, I have taken, the file, name called createPRD, and, you know, generate tasks. I just put the three files, I asked Cloud Code, look at the 3 files, and make the cloud.md file.
+
+804
+02:02:49.810 --> 02:03:01.640
+Dileep Karri: Now, what is this clot.md file? This is the file it will use as the master file for everything that is happening inside the project.
+
+805
+02:03:02.160 --> 02:03:19.310
+Dileep Karri: So, how you have built the project, what is happening, any kind of logging that needs to be done, it will do. Suppose you have built to some extent, and then you come back, the first thing that Claude does is read the clod.md and continue from there.
+
+806
+02:03:20.270 --> 02:03:24.250
+Dileep Karri: Okay? Think of it like your notebook, or your rough scraping notebook.
+
+807
+02:03:24.660 --> 02:03:30.310
+Dileep Karri: Okay? So, it tells you exactly what is happening at every step of the place.
+
+808
+02:03:30.410 --> 02:03:40.730
+Dileep Karri: And for answering the very, very important question, that without answering we cannot proceed, what is razzmatizing? It is something only the Claude folks will know.
+
+809
+02:03:40.730 --> 02:03:51.800
+Dileep Karri: Okay? So, as a fun, they keep telling razzmatazzing, glunking, you know, everything, etc, all that is, trying to do that, okay?
+
+810
+02:03:53.620 --> 02:03:59.010
+Dileep Karri: Right? And now, I will also show you in cursor, so that you can see…
+
+811
+02:03:59.610 --> 02:04:03.460
+Dileep Karri: exactly what is happening. When I open the files.
+
+812
+02:04:03.990 --> 02:04:10.180
+Dileep Karri: Right? I can see the tasks, and I can see the clot.md, the complete file.
+
+813
+02:04:16.600 --> 02:04:23.730
+Dileep Karri: Okay, the complete workflow is present. All your files are here. So now we are going to use
+
+814
+02:04:23.940 --> 02:04:26.530
+Dileep Karri: This particular file.
+
+815
+02:04:29.040 --> 02:04:29.940
+Dileep Karri: Okay?
+
+816
+02:04:36.620 --> 02:04:51.640
+Dileep Karri: Alright, so ready to build a feature when you are, but I want to kind of, use some great website as some kind of design-looking thing, so let me kind of look at…
+
+817
+02:04:51.690 --> 02:04:57.680
+Dileep Karri: For anything. You can do this for any niche, okay? So, let me go to Beehive.
+
+818
+02:05:01.900 --> 02:05:04.870
+Dileep Karri: Right? Let me look at this. I like this style.
+
+819
+02:05:05.190 --> 02:05:07.909
+Dileep Karri: Okay? I like the beehive style.
+
+820
+02:05:08.660 --> 02:05:17.510
+Dileep Karri: So what I'll do is, I found this cool workflow, I go to inspect, Okay? I go to styles.
+
+821
+02:05:18.620 --> 02:05:23.040
+Dileep Karri: I can go to computed, I can go to everything, etc.
+
+822
+02:05:31.630 --> 02:05:34.400
+Dileep Karri: Alright… And…
+
+823
+02:05:52.690 --> 02:05:55.650
+Dileep Karri: Let me see the style files here.
+
+824
+02:06:17.930 --> 02:06:20.220
+Dileep Karri: This one, element.style.
+
+825
+02:06:33.720 --> 02:06:39.049
+Dileep Karri: Okay, I'm not sure how do I do this. Anyways, I have a different workflow.
+
+826
+02:06:39.920 --> 02:06:42.290
+Dileep Karri: Okay, so what I'll do, this is…
+
+827
+02:06:42.830 --> 02:06:44.950
+Dileep Karri: I will use Go Full Page.
+
+828
+02:06:56.160 --> 02:06:58.990
+Dileep Karri: Potipe?
+
+829
+02:07:07.130 --> 02:07:09.579
+Dileep Karri: Okay, so this is happening.
+
+830
+02:07:16.150 --> 02:07:19.370
+Dileep Karri: It is going a little slower than expected, but it's okay.
+
+831
+02:07:25.900 --> 02:07:27.480
+Dileep Karri: 1, 4, 3, 6.
+
+832
+02:07:27.690 --> 02:07:29.860
+Dileep Karri: 1, 4, 10.
+
+833
+02:07:32.040 --> 02:07:36.119
+Dileep Karri: So there is this extension also called Super Design.
+
+834
+02:07:36.920 --> 02:07:41.729
+Dileep Karri: Okay? Where you can actually, you know, kind of,
+
+835
+02:07:42.110 --> 02:07:47.880
+Dileep Karri: add that extension, and then do this, okay? So, this is done, hopefully.
+
+836
+02:08:15.640 --> 02:08:19.350
+Dileep Karri: Okay, so this is a great extension. Let me test this out.
+
+837
+02:08:20.400 --> 02:08:21.340
+Dileep Karri: Okay?
+
+838
+02:08:45.100 --> 02:08:47.160
+Dileep Karri: Okay, I cloned the component.
+
+839
+02:08:47.990 --> 02:08:52.680
+Dileep Karri: So what this extension is doing is I'm trying to understand the design language that I want to do.
+
+840
+02:08:53.180 --> 02:08:58.900
+Dileep Karri: Okay? I clone this component, And let me put it here.
+
+841
+02:09:02.020 --> 02:09:04.260
+Dileep Karri: Okay? And then I say…
+
+842
+02:09:07.630 --> 02:09:17.460
+Dileep Karri: look at the component I have cloned, and reverse engineer the design language, and I want to use the same design aesthetics for the product I want to build.
+
+843
+02:09:17.730 --> 02:09:25.040
+Dileep Karri: So, try to add a design.md, which will carry the design aesthetic forward.
+
+844
+02:09:33.160 --> 02:09:50.799
+Dileep Karri: So, I just, what it is doing is, I installed the SuperDesign extension, I clicked a component, I try to replicate the style, the border, the component, and try to create a design system document, which I'll use to kind of prepare my, tool.
+
+845
+02:09:57.350 --> 02:10:05.579
+Dileep Karri: Everybody following, right? Again, quickly, there is this, design, extension that I am using.
+
+846
+02:10:06.940 --> 02:10:10.120
+Dileep Karri: Yes, existing VIP-coded site also it can use.
+
+847
+02:10:11.370 --> 02:10:20.119
+Dileep Karri: So I can copy any component, anything that is needed. So I copied this so that I can use it in any place that I want.
+
+848
+02:10:21.530 --> 02:10:25.310
+Dileep Karri: Okay? Every place I can do this. Great extension.
+
+849
+02:10:26.790 --> 02:10:29.890
+Dileep Karri: I can even clone the complete page if I want.
+
+850
+02:10:36.000 --> 02:10:38.469
+Dileep Karri: Okay, so let's get back.
+
+851
+02:10:41.840 --> 02:10:59.439
+Dileep Karri: There you go. You see here, design philosophy is bold, modern, dark mode, first aesthetic with playful 3D elements and high contrast. The style is retro-futuristic sass with layered shadows, uppercase display typography, vibrant accent colors against deep purple backgrounds.
+
+852
+02:11:01.100 --> 02:11:03.100
+Dileep Karri: Okay? Pretty cool, right?
+
+853
+02:11:05.360 --> 02:11:13.459
+Dileep Karri: Now, I have to just describe what I want to do, and I can build the PRD. I will say…
+
+854
+02:11:14.220 --> 02:11:15.250
+Dileep Karri: Update.
+
+855
+02:11:16.930 --> 02:11:18.639
+Dileep Karri: And I can use ACT.
+
+856
+02:11:21.750 --> 02:11:23.630
+Dileep Karri: plot.md.
+
+857
+02:11:23.830 --> 02:11:27.329
+Dileep Karri: Okay, when I say at, I can access any files in the directory.
+
+858
+02:11:27.540 --> 02:11:38.189
+Dileep Karri: to incorporate… design… dot… MD while building.
+
+859
+02:11:38.550 --> 02:11:43.030
+Dileep Karri: Because I added design.md, right? It should also be incorporated.
+
+860
+02:11:58.470 --> 02:12:09.830
+Dileep Karri: So now it is updating the design.md with everything else. Currently, I cannot visualize, I only gave it the inspiration, we'll have to build it once.
+
+861
+02:12:10.010 --> 02:12:13.659
+Dileep Karri: After we build it once, we will be able to see what we have built.
+
+862
+02:12:14.430 --> 02:12:15.820
+Dileep Karri: Okay, it is tough.
+
+863
+02:12:15.960 --> 02:12:40.899
+Dileep Karri: Right? So you'll have to build one iteration, and then you will have to decide, how it is going ahead. So, you see, cloud.md with the design system integration has been done. System, quick design system section, quick reference guide, updated workflow, updated references. The design system will now be enforced throughout the development workflow. So, when you guys are developing, right, you can put the process.md
+
+864
+02:12:40.900 --> 02:12:48.629
+Dileep Karri: create PRD and, you know, create task. And the design system, you can use whatever inspiration you want.
+
+865
+02:12:48.690 --> 02:13:03.139
+Dileep Karri: You might require a different aesthetic, copy that aesthetic code, and paste it, and reverse engineer the process. If you're confused on doing it in Clawed code, Gemini 3 Pro also does an excellent work while doing this.
+
+866
+02:13:05.040 --> 02:13:06.080
+Dileep Karri: Okay?
+
+867
+02:13:06.520 --> 02:13:14.449
+Dileep Karri: So now I have done this, now what I require is, I need to get that feature idea complete. You remember we wrote that feature idea in co-work.
+
+868
+02:13:15.230 --> 02:13:20.660
+Dileep Karri: Okay? So now… I will.
+
+869
+02:13:20.840 --> 02:13:24.479
+Dileep Karri: go to that feature idea in Cowork.
+
+870
+02:13:29.140 --> 02:13:31.660
+Dileep Karri: Okay, I copied this entire thing.
+
+871
+02:13:32.430 --> 02:13:36.840
+Dileep Karri: Now, I go to the terminal, I paste it.
+
+872
+02:13:37.620 --> 02:13:43.689
+Dileep Karri: I'll say, here is the… feature. You have to.
+
+873
+02:13:43.920 --> 02:13:44.840
+Dileep Karri: Billy.
+
+874
+02:13:45.900 --> 02:13:47.840
+Dileep Karri: And… enter.
+
+875
+02:13:55.520 --> 02:14:08.869
+Dileep Karri: So, what I can do right now is, I can escape, interrupt, okay? Suppose I want to do something. I can press something called Shift and Tab. Look at this down. Shift Tab, I have plan mode on.
+
+876
+02:14:11.020 --> 02:14:13.689
+Dileep Karri: Okay? Again, Shift-Dab, shortcuts.
+
+877
+02:14:13.920 --> 02:14:23.449
+Dileep Karri: So, I can go to plan mode. So, if I want to get a plan on how it wants to build, I can turn on the plan mode. So now, I'll run the plan mode.
+
+878
+02:14:26.460 --> 02:14:28.230
+Dileep Karri: I'll say continue.
+
+879
+02:14:29.100 --> 02:14:32.340
+Dileep Karri: And give me the… blah.
+
+880
+02:14:41.110 --> 02:14:58.419
+Dileep Karri: So now, it is going to create the plan for the newsletter content calendar generator, and based on the detailed requirements provided. I have no idea how much it will consume, okay? I'll just have to keep checking in on the usage as I go ahead. That is…
+
+881
+02:14:58.500 --> 02:15:14.439
+Dileep Karri: You know, kind of one drawback that is something we'll have to, live with. Maybe with more and more experience, you'll know, but here you see, right, it is saying 519 tokens, so many tokens it is using. It will use good amount of tokens to build this, that much I'm sure.
+
+882
+02:15:26.650 --> 02:15:45.109
+Dileep Karri: So now it has created a comprehensive implementation plan. Before that, it is storing, for example, how should the captured emails be stored for the MVP? Should I connect to Behavive, ConvertKit, Superbase Database, etc? For now, I will say local JSON file.
+
+883
+02:15:45.320 --> 02:16:02.269
+Dileep Karri: Later on, if I want to add a database, etc, I can do that, but for now, local JSON file is good to go. Which brand name should appear in CTAs and the CSV footer? I will say Newsletter tool generic name, I will rebrand it later for now.
+
+884
+02:16:03.210 --> 02:16:04.940
+Dileep Karri: Okay? Fonts.
+
+885
+02:16:05.320 --> 02:16:08.690
+Dileep Karri: You know, you know,
+
+886
+02:16:08.880 --> 02:16:13.809
+Dileep Karri: Do you have the custom prompts, or do I use free alternatives? I'll say, use free alternatives.
+
+887
+02:16:14.120 --> 02:16:24.530
+Dileep Karri: Visually similar, but free. Okay, I don't even know what it means. I don't even know what clash, Gurotesque, or Satoshi means. I just have to say, use free alternatives over here.
+
+888
+02:16:25.780 --> 02:16:28.589
+Dileep Karri: Okay? Then I'll just submit answers.
+
+889
+02:16:28.940 --> 02:16:37.039
+Dileep Karri: Okay, while it is a command line, right, everything is just typing, copy-pasting, telling exactly what it should do.
+
+890
+02:16:37.280 --> 02:16:47.109
+Dileep Karri: So my honest recommendation to people is use the terminal. If you can't use the terminal, I showed you from different places how you can do that.
+
+891
+02:16:50.629 --> 02:16:54.629
+Dileep Karri: Okay, so decisions are done, ready to implement.
+
+892
+02:16:55.290 --> 02:16:59.729
+Dileep Karri: Okay? I will say, would you ready to proceed? I'll say yes.
+
+893
+02:17:07.150 --> 02:17:09.650
+Dileep Karri: Clear context, and proceed.
+
+894
+02:17:23.370 --> 02:17:29.130
+Dileep Karri: So now, it is all… Claude, in the hands of Claude Code.
+
+895
+02:17:29.600 --> 02:17:33.370
+Dileep Karri: So, what I'm doing right now is I set up a system.
+
+896
+02:17:33.959 --> 02:17:38.279
+Dileep Karri: Okay, I set up a workflow for Claude Code to follow.
+
+897
+02:17:39.150 --> 02:17:44.860
+Dileep Karri: Now, look at this, it has read the design system, so it is now creating the task list completely.
+
+898
+02:17:48.520 --> 02:17:51.690
+Dileep Karri: Okay? So, I'll say yes.
+
+899
+02:17:56.340 --> 02:18:05.529
+Dileep Karri: So, it has understood the process, it is now understanding what all the things I'll need to do, and I can go ahead with this.
+
+900
+02:18:06.889 --> 02:18:21.250
+Dileep Karri: So it'll keep accepting a few things overall, you just have to give it the permissions. From now on, my job is just look at what it is asking, press enter, press escape, press, keep pressing, enter key, on and on and on.
+
+901
+02:18:22.230 --> 02:18:30.140
+Dileep Karri: Okay? It will take its own sweet time, okay? But the end of it, the product is going to be developed.
+
+902
+02:18:30.340 --> 02:18:32.459
+Dileep Karri: So, as this is happening.
+
+903
+02:18:32.990 --> 02:18:39.760
+Dileep Karri: It can go and do it, and if I want, in the prompt, I can tell not this tech stack, try to do different tech stack.
+
+904
+02:18:40.490 --> 02:18:44.509
+Dileep Karri: I can give it, Also, that, overall.
+
+905
+02:18:49.270 --> 02:19:00.059
+Dileep Karri: Now, all that it is doing over here, right, you don't have to be, you don't have to worry about what it is doing, etc, and all that. Everything is super easy.
+
+906
+02:19:02.570 --> 02:19:09.229
+Dileep Karri: K… See, here I don't know anything, I'll just look at the command, I'll say yes.
+
+907
+02:19:32.750 --> 02:19:43.719
+Dileep Karri: So, what I'm doing is, it has given me a plan, I am just following the plan and giving the follow-up prompts as it is building the stuff. That is the power of Claude Code.
+
+908
+02:19:43.719 --> 02:20:00.770
+Dileep Karri: So you guys have understood, right, how cloud code is very agent-ic in nature, that it is doing stuff on its own, just asking you and all, and that is why non-coders also kind of fell in love with it. So as… once they ignore the above scary colors, right.
+
+909
+02:20:00.770 --> 02:20:05.209
+Dileep Karri: You will understand that it is easy to kind of build it out completely.
+
+910
+02:20:09.080 --> 02:20:13.109
+Dileep Karri: So, task 1 status is completed, now it is picking up task 2.
+
+911
+02:20:15.260 --> 02:20:21.159
+Dileep Karri: So, basically, the earlier context, right, about everything else, that context I have cleared.
+
+912
+02:20:24.520 --> 02:20:26.800
+Dileep Karri: Okay, so that the context is saved.
+
+913
+02:20:30.890 --> 02:20:46.249
+Dileep Karri: Yeah, it looks pretty geeky, no? Like, it's as if you're hacking something. In movies, right? They show this hacker, typing some cool stuff, etc, right? So now you are also, kind of hackers, you know, trying to build stuff.
+
+914
+02:20:48.790 --> 02:20:51.210
+Dileep Karri: Non-coders not getting scared, right?
+
+915
+02:20:51.820 --> 02:20:55.520
+Dileep Karri: Everybody's, able to understand.
+
+916
+02:21:01.220 --> 02:21:11.449
+Dileep Karri: Okay? Follow the process, okay, as, you know, I'm doing. I'm not… I'm not putting any fancy commands, right? The key I'm pressing a lot is Enter.
+
+917
+02:21:11.990 --> 02:21:15.010
+Dileep Karri: I'm using arrow key and enter, that's all.
+
+918
+02:21:21.600 --> 02:21:26.900
+Dileep Karri: Okay, as I said, if you're scared, you can use the same process from your Cloud desktop.
+
+919
+02:21:28.810 --> 02:21:34.030
+Dileep Karri: Okay? On the cloud desktop, you can follow this exact same process, you don't have to worry.
+
+920
+02:21:34.710 --> 02:21:40.850
+Dileep Karri: Arrow, because suppose I want to say no, right, I want to use the arrow to say no. That's why I use the arrow key.
+
+921
+02:21:48.420 --> 02:21:57.139
+Dileep Karri: Okay? So as I'm chatting with you, and you see, right, I am able to see and, you know, kind of scratch multiple things.
+
+922
+02:21:57.610 --> 02:22:13.639
+Dileep Karri: UI components building is done, input form component is done, build calendar display components is done, implementing AI calendar generation, build email gate and export features, and build the landing and calendar features. So everything is…
+
+923
+02:22:13.830 --> 02:22:17.210
+Dileep Karri: You know, is doing everything.
+
+924
+02:22:17.280 --> 02:22:37.050
+Dileep Karri: Right? So, the only work that I had done is the setup part. Like, what you want to build, that clarity you have to establish. Once you establish what is the clarity on what you want to build, right? Cloud Code will actually do it. And I'm not even a JavaScript coder, I'm actually a Python coder.
+
+925
+02:22:38.020 --> 02:22:42.259
+Dileep Karri: Okay? So I don't even understand half of what is being shown on the screen.
+
+926
+02:22:42.970 --> 02:22:44.739
+Dileep Karri: I'm just vibe building it.
+
+927
+02:23:12.160 --> 02:23:15.130
+Dileep Karri: Yeah, yeah, but see, don't worry, right? It's…
+
+928
+02:23:15.560 --> 02:23:23.990
+Dileep Karri: Pretty… it looks scary, but it's pretty cool overall. Okay, at least, even if it is scary, is it cool or not? At least tell me that.
+
+929
+02:23:25.400 --> 02:23:28.350
+Dileep Karri: Okay? Is it cool or not? It is super cool.
+
+930
+02:23:35.700 --> 02:23:38.969
+Dileep Karri: So, currently, I'm in only Claude code, I'm not in cursor.
+
+931
+02:23:44.360 --> 02:23:51.789
+Dileep Karri: Terminal colors, I don't know how to do that in PowerShell, but I think you can just search for it, you will understand how to do that.
+
+932
+02:23:56.100 --> 02:23:58.990
+Dileep Karri: I will recap the complete process, okay? Let it finish.
+
+933
+02:23:59.180 --> 02:24:10.479
+Dileep Karri: Because I just don't want to… it to get stuck while I'm explaining something, that's why I'm here. Once the final thing is done, there are a few more things I want to explain, and then I'll give you the complete
+
+934
+02:24:10.620 --> 02:24:13.789
+Dileep Karri: a recap of what I have done so far.
+
+935
+02:24:22.990 --> 02:24:26.350
+Dileep Karri: You can do it in anti-gravity also.
+
+936
+02:24:26.840 --> 02:24:29.679
+Dileep Karri: But, what I found is,
+
+937
+02:24:29.970 --> 02:24:35.690
+Dileep Karri: You can do it there also. You can follow the same process everywhere.
+
+938
+02:24:57.970 --> 02:25:07.919
+Dileep Karri: Thoughts on anti-gravity? No, it is good. Anti-gravity is pretty good overall. It is wind surf underneath, so I like anti-gravity also.
+
+939
+02:25:08.250 --> 02:25:14.089
+Dileep Karri: My thing is, I like Claude Code at the top, and then everything else at the bottom.
+
+940
+02:25:30.640 --> 02:25:36.049
+Dileep Karri: Yes, some… I don't know what MagicSource is, but I… because it's a model…
+
+941
+02:25:36.210 --> 02:25:40.730
+Dileep Karri: optimized for coding, right? It does this building very well. That's what I observed.
+
+942
+02:25:42.020 --> 02:25:46.979
+Dileep Karri: Yes, we can… that is what I'm going to do. I'm going to create some documentation also.
+
+943
+02:25:47.560 --> 02:25:59.449
+Dileep Karri: So there is an error, so it is now going to fix the TypeScript error also. You don't have to do anything. It is going to go… it is going to fix every error, so on. Okay?
+
+944
+02:26:05.270 --> 02:26:10.370
+Dileep Karri: So, why was claud.md… what does the file contain?
+
+945
+02:26:10.540 --> 02:26:22.490
+Dileep Karri: It contains exactly how you should develop this feature, what has happened in the project, so that when you come back to the project, it has got all the context. So something like.
+
+946
+02:26:23.400 --> 02:26:36.300
+Dileep Karri: Suppose you worked on the project from 10 to 1PM, and 2PM somebody else is coming to replace you. What are the notes you'll pass on to the person coming at 2PM? That is what clot.fd is.
+
+947
+02:26:40.020 --> 02:26:55.570
+Dileep Karri: Say, testing, everything, you'll have to, say, write test cases and test it out, that you'll have to do the follow-up. But if you want, you can also give it a prompt to do test-driven development also, but I don't want to go into that and scare people even further.
+
+948
+02:27:15.120 --> 02:27:17.249
+Dileep Karri: So, here it goes.
+
+949
+02:27:17.560 --> 02:27:22.320
+Dileep Karri: So, it is saying, all tasks completed, here is what we built, hey, completed.
+
+950
+02:27:22.490 --> 02:27:28.289
+Dileep Karri: Newsletter content calendar generator, implementation complete. Files created,
+
+951
+02:27:28.440 --> 02:27:31.629
+Dileep Karri: SRC app, you know.
+
+952
+02:27:31.930 --> 02:27:49.539
+Dileep Karri: page.tsx, etc. UI components are there, feature components, API routes, etc, to run, create.env, etc, all that. And, you know, then I have to go here, do this, etc. Okay, now what I'll do is.
+
+953
+02:27:50.120 --> 02:27:51.850
+Dileep Karri: Create… sorry.
+
+954
+02:27:53.280 --> 02:28:10.650
+Dileep Karri: Create a README file, so that anybody who is using this package, can understand how to run this package, and what are the things that they should do. Also, create a .env file already, so that I can just have to update it with the API keys.
+
+955
+02:28:34.740 --> 02:28:46.120
+Dileep Karri: I think Renka shared a great tip on ClaudeMD. Regularly flush it out, and say that, update this, share this, etc, and do this, okay?
+
+956
+02:28:53.710 --> 02:29:02.400
+Dileep Karri: It automatically creates the architecture file. Anything you want to create, you can say, create me a separate architecture file for the code. It should be able to do that.
+
+957
+02:29:28.050 --> 02:29:45.770
+Dileep Karri: Okay, readme.md is done.env file is ready. Then, I also updated .gitignore to exclude this and the data where emails are stored. Okay, open .env, replace the file, run np run dev, and open this stuff.
+
+958
+02:29:46.470 --> 02:29:53.630
+Dileep Karri: Okay? So now what I'll do is… I will open cursor.
+
+959
+02:29:54.730 --> 02:29:58.340
+Dileep Karri: all my… Files are here.
+
+960
+02:30:04.550 --> 02:30:05.320
+Dileep Karri: Sorry.
+
+961
+02:30:09.720 --> 02:30:16.500
+Dileep Karri: All the files are there, and what I need to do is, I need to set up my OpenAI API key over here.
+
+962
+02:30:17.200 --> 02:30:28.479
+Dileep Karri: Okay? So what I'll do is, I will stop sharing the screen for a few moments, because… can anybody tell you why? Can anybody tell me why? Why should I stop sharing my screen for a few moments?
+
+963
+02:30:30.950 --> 02:30:32.509
+Dileep Karri: API keys.
+
+964
+02:30:32.870 --> 02:30:41.870
+Dileep Karri: Right? So API keys, very, very important to keep it safe, security. So what I'm going to do is, I'm going to open up the API keys.
+
+965
+02:30:42.220 --> 02:30:45.489
+Dileep Karri: Alright, so give me 2-3 minutes to set up the API key.
+
+966
+02:30:47.310 --> 02:30:48.350
+Dileep Karri: Alright.
+
+967
+02:30:48.860 --> 02:30:49.920
+Dileep Karri: So…
+
+968
+02:30:56.920 --> 02:31:00.369
+Dileep Karri: What I'm going to do is this, just a second.
+
+969
+02:31:39.940 --> 02:31:44.190
+Dileep Karri: Yikes. I think API billing is off.
+
+970
+02:31:45.410 --> 02:31:46.969
+Dileep Karri: Just a second.
+
+971
+02:32:19.510 --> 02:32:22.090
+Dileep Karri: Okay, so what has happened is there are no
+
+972
+02:32:32.540 --> 02:32:33.530
+Dileep Karri: Okay.
+
+973
+02:32:41.030 --> 02:32:41.960
+Dileep Karri: Alright.
+
+974
+02:32:42.090 --> 02:32:48.670
+Dileep Karri: So, what I have done is, I don't have the… API key.
+
+975
+02:32:50.460 --> 02:32:53.570
+Dileep Karri: So what I'm going to do is, I will…
+
+976
+02:32:54.490 --> 02:32:59.770
+Dileep Karri: show you something. I have used the… Open router key.
+
+977
+02:33:00.100 --> 02:33:02.260
+Dileep Karri: Okay? So I'll mention that.
+
+978
+02:33:02.640 --> 02:33:08.229
+Dileep Karri: I don't have an open AI key. Instead, I have the open router API key,
+
+979
+02:33:08.230 --> 02:33:24.889
+Dileep Karri: for which I have added the API key in the .env file already. So, can you, modify the code slightly so that it can work with OpenRouter and adjust rest of the code, the README file, and everything else that needs to be updated?
+
+980
+02:33:43.460 --> 02:33:59.489
+Dileep Karri: Okay, so wherever I needed the API key, I kind of switched it around, and I worked it. So, anytime you… suppose you want to work with Gemini, you can tell that, you know, I have the Gemini API key, I added the API key of Gemini, and I can work with it.
+
+981
+02:34:42.000 --> 02:35:00.410
+Dileep Karri: Yeah, you can do that, right? You can add multiple API keys, if you want, and say that if this API key is not available, pick the other API key, or pick the other API key. Anything you can do. See, it's all vibe coding, right? You just have to tell this is the option, that is the option, give it the API keys, and it should be sufficient.
+
+982
+02:35:12.970 --> 02:35:13.970
+Dileep Karri: Okay?
+
+983
+02:35:14.880 --> 02:35:25.169
+Dileep Karri: So, see here, it is, ENV file already has your open router API key configured, everything is ready, so now I have to do,
+
+984
+02:35:25.640 --> 02:35:29.860
+Dileep Karri: this, run dev, okay? So, I have the other…
+
+985
+02:35:30.570 --> 02:35:38.239
+Dileep Karri: thing. Okay, let me exit this. So this is another Claude Code instance I've been experimenting on. I'll talk about this next time.
+
+986
+02:35:39.400 --> 02:35:40.320
+Dileep Karri: Okay?
+
+987
+02:35:40.630 --> 02:35:43.380
+Dileep Karri: So, CD Newsletter tool.
+
+988
+02:35:43.630 --> 02:35:45.630
+Dileep Karri: NPM run.
+
+989
+02:35:46.110 --> 02:35:47.060
+Dileep Karri: Bill?
+
+990
+02:35:56.930 --> 02:36:04.100
+Dileep Karri: Okay, so I have to… Take this… And,
+
+991
+02:36:15.520 --> 02:36:17.130
+Dileep Karri: There you go.
+
+992
+02:36:17.480 --> 02:36:29.240
+Dileep Karri: AI-powered, generate your 30-day newsletter calendar. Tell us about your newsletter, okay? So, let me say personal… finance.
+
+993
+02:36:32.300 --> 02:36:34.279
+Dileep Karri: Personal finance for?
+
+994
+02:36:35.250 --> 02:36:39.650
+Dileep Karri: 20 to 30 year olds.
+
+995
+02:36:40.160 --> 02:36:50.420
+Dileep Karri: Okay? And, target, you know, professionals is personal… finance… influencers.
+
+996
+02:36:53.130 --> 02:37:06.049
+Dileep Karri: Okay, publishing frequency weekly, right now. Content style is educational, how-to guides, curated links, storytelling, etc, case studies, opinions, etc. So, I'll keep it educational.
+
+997
+02:37:06.220 --> 02:37:13.909
+Dileep Karri: Then, Any updating this thing optional, I will leave it, and I'll say, generate my calendar.
+
+998
+02:37:14.510 --> 02:37:15.490
+Dileep Karri: Okay?
+
+999
+02:37:15.740 --> 02:37:20.990
+Dileep Karri: So, here it is saying how it works. Newsletter tool, I'll say generate my calendar.
+
+1000
+02:37:35.320 --> 02:37:47.659
+Dileep Karri: Okay? So, day one, budgeting basics, building a solid financial foundation, debt management 101, investing for beginners, right? Financial independence, setting goals for the next.
+
+1001
+02:37:48.130 --> 02:38:05.539
+Dileep Karri: right, and day 5, Monday, is so on and so forth. So, total 5 days, etc. If I say unlock now, so that I can access the full calendar and download as CSV, when I say unlock now, I will have to put in my email over here, and then I'll get the complete unlocked.
+
+1002
+02:38:05.860 --> 02:38:06.880
+Dileep Karri: this thing.
+
+1003
+02:38:08.470 --> 02:38:16.279
+Dileep Karri: Yes, it can… this tool can create for anybody overall, and everything that is there, it can build.
+
+1004
+02:38:20.120 --> 02:38:23.459
+Dileep Karri: Okay? So look at this, right? I just want to show you the…
+
+1005
+02:38:24.110 --> 02:38:29.080
+Dileep Karri: reason why I used the… thing.
+
+1006
+02:38:31.250 --> 02:38:34.799
+Dileep Karri: Look at this component, and look at this style.
+
+1007
+02:38:39.460 --> 02:38:46.179
+Dileep Karri: Right? Very similar in the overall style by which I built the complete tool.
+
+1008
+02:38:49.240 --> 02:38:58.030
+Dileep Karri: Okay? So what I have done is, I have kind of conceptualized… so basically, it's the engineering as marketing completely done.
+
+1009
+02:38:59.040 --> 02:39:02.489
+Dileep Karri: Live with the help of this Cloud Code agent.
+
+1010
+02:39:06.820 --> 02:39:07.820
+Dileep Karri: Okay?
+
+1011
+02:39:10.160 --> 02:39:21.019
+Dileep Karri: So let me now recap the complete process, so that anybody who has any doubts, and I'll tell you some enhancement techniques also, as to how we can build this out completely.
+
+1012
+02:39:21.200 --> 02:39:26.180
+Dileep Karri: Okay? The reason why, in a single shot, we have reached till here.
+
+1013
+02:39:26.470 --> 02:39:31.740
+Dileep Karri: Is because we have conceptualized everything very clearly.
+
+1014
+02:39:32.200 --> 02:39:42.500
+Dileep Karri: Okay? So we had a very well-set process from the beginning, and we followed the process. The tool became just like a medium to generate.
+
+1015
+02:39:43.880 --> 02:39:50.349
+Dileep Karri: Okay? So that is one great lesson all of you have to take away. That tool is just that, a tool.
+
+1016
+02:39:51.280 --> 02:40:01.550
+Dileep Karri: Okay? What you require is a process, what you require is a workflow, what you require is a system that brings different things together on through.
+
+1017
+02:40:02.970 --> 02:40:06.789
+Dileep Karri: Okay? This is Claude Code 101 only.
+
+1018
+02:40:07.750 --> 02:40:21.290
+Dileep Karri: There are some more enhancements that we will discuss, some more things that we will do, and that, actually, the power-up of Cloud Core comes in something called skills, and another thing called MCP Servers.
+
+1019
+02:40:23.200 --> 02:40:30.829
+Dileep Karri: Right? So, how can you work with skills? What are skills? How can you work with MCP servers? What are the crazy things that we can do?
+
+1020
+02:40:31.260 --> 02:40:33.610
+Dileep Karri: That we'll do in an upcoming session.
+
+1021
+02:40:34.510 --> 02:40:39.049
+Dileep Karri: Okay? So I hope this, session, right.
+
+1022
+02:40:39.880 --> 02:40:43.730
+Dileep Karri: Yeah, yeah. So, right now, I just built a simple tool.
+
+1023
+02:40:44.560 --> 02:40:58.080
+Dileep Karri: Okay? Now, somebody's saying, what about registration page, OAuth, CRM system, etc, and all that? That is later on, okay? For a simple system, which I want to just collect leads, this is suffice.
+
+1024
+02:40:58.320 --> 02:41:04.440
+Dileep Karri: Right? I don't require a fancy CRM when I'm just testing out, I'm just collecting leads with a free tool.
+
+1025
+02:41:05.470 --> 02:41:12.489
+Dileep Karri: I build a free tool like this. I can host it, I can give this code, and I can host it anywhere I want.
+
+1026
+02:41:13.940 --> 02:41:21.529
+Dileep Karri: Right? And once I host it at a place, I give the URL to people, I'll collect… keep collecting some leads overall.
+
+1027
+02:41:22.880 --> 02:41:23.810
+Dileep Karri: Okay?
+
+1028
+02:41:26.140 --> 02:41:40.759
+Dileep Karri: Unable to write text. So if there is anything on the text side, right, that you want, okay, you can just put it over here, okay? And we will, try to take a look, or you can even, message, Nitya.
+
+1029
+02:41:41.070 --> 02:41:44.329
+Dileep Karri: She will pass on the feedback directly to me.
+
+1030
+02:41:48.580 --> 02:41:55.970
+Dileep Karri: possible to share the project without key? Yeah, yeah, I can, I can do that. I can share the project without a key. Give me, like, a day.
+
+1031
+02:41:56.340 --> 02:42:02.810
+Dileep Karri: I have some more things to do, so I have a few things to do, and yeah, I'll share the zip of the project, don't worry.
+
+1032
+02:42:03.860 --> 02:42:12.649
+Dileep Karri: But the thing is, don't get scared looking at the code, okay? This is just the project for you overall. What I want you to take away is the framework.
+
+1033
+02:42:13.100 --> 02:42:15.310
+Dileep Karri: Right? So what we have done is.
+
+1034
+02:42:15.490 --> 02:42:26.169
+Dileep Karri: We have looked at cloud code as a tool, and we learned Cloud Code by actually solving a problem, which is reverse engineering a product strategy, figure out what…
+
+1035
+02:42:26.430 --> 02:42:35.990
+Dileep Karri: code, what is it that we have to build, and then take it forward from there. And all, everything that we had done had Claude code and being agentic.
+
+1036
+02:42:36.120 --> 02:42:48.129
+Dileep Karri: Right? So, basically, what we have done is we looked at Claude Co-work to kind of look at ideas, etc, and all that. So, final recap before we kind of go to the Q&A section.
+
+1037
+02:42:48.720 --> 02:43:03.889
+Dileep Karri: When you are trying to build any thing with Claude code, we can go with spec-driven development, that's a great process. What I can tell you is, today, the spec-driven development was not followed as is. Claude kind of,
+
+1038
+02:43:04.160 --> 02:43:11.270
+Dileep Karri: Try to interpret it in its own way, and try to do that. That's what I wanted to mention. But still, it has done a decent job.
+
+1039
+02:43:12.800 --> 02:43:31.800
+Dileep Karri: Okay? So, basically, the way you work with Cloud Code, or any tool for that matter, any building tool, any product building you do, what is the purpose for what you're building, and figure out what is it that you want to build. Okay? So, the strategy today we used was engineering as marketing.
+
+1040
+02:43:37.090 --> 02:43:41.110
+Dileep Karri: Okay? Tomorrow, you might find a completely new strategy.
+
+1041
+02:43:44.550 --> 02:44:01.069
+Dileep Karri: Okay? Desktop, right? Okay, what I'll do, lip size, next session, I will build something small, maybe on a desktop, or if I'm building, if I don't have time, what I'll do is throughout the week, right, I will do, like, a room recording, and I'll share it with you directly of something I built on a desktop.
+
+1042
+02:44:01.160 --> 02:44:17.940
+Dileep Karri: Okay, so that it's easy. So, I'll tell you the problem was, I am so used to terminal, when I teach, if I go to an unfamiliar territory, I'm getting stuck. Today, I tried to go on cursor, it was so much unfamiliar territory. Terminal is where I, you know.
+
+1043
+02:44:18.050 --> 02:44:26.799
+Dileep Karri: If I want to hit a century, right, I will play on a flat… a pitch I am used to. I can't go on a different pitch and do that.
+
+1044
+02:44:26.800 --> 02:44:49.239
+Dileep Karri: Okay? So, I will show you on Claude Desktop what to do. Setup of Cloud Desktop is pretty straightforward, right? We discussed that in the accelerator, but what I'll do is, on Claude Desktop, how I can work with Cloud Code, that part, I will show. This exact same thing what we had done so far, or something smaller, just to show it very easily, I will show all of that.
+
+1045
+02:44:49.330 --> 02:44:51.210
+Dileep Karri: Clearly. Okay?
+
+1046
+02:44:52.330 --> 02:44:58.859
+Dileep Karri: Great. But give me, like, a week's time. Lot of things to do. Within a week, I will share that recording.
+
+1047
+02:45:01.510 --> 02:45:20.950
+Dileep Karri: Alright, so coming back, what we had done is, we found out what to build by reverse engineering, and then we went with spec-driven development, and in spec-driven development, what we did was, we went to, this particular GitHub, which is done by Ryan Carson on AI DevTasks, where he has
+
+1048
+02:45:20.950 --> 02:45:27.620
+Dileep Karri: shown two different markdowns on how to create a PRD and how to generate the tasks.
+
+1049
+02:45:27.760 --> 02:45:36.580
+Dileep Karri: We copied these files along with the process into the empty folder, and gave Claude access to that empty folder.
+
+1050
+02:45:38.090 --> 02:45:53.769
+Dileep Karri: Okay? Once I gave Claude access to the empty folder, the setup that I tried to do was… that particular setup was, I asked Claude to create the Claude.md file using the files, so that I can create the complete process.
+
+1051
+02:45:53.770 --> 02:45:59.210
+Dileep Karri: And what is the cloud.md file? You can see here the complete project overview.
+
+1052
+02:45:59.210 --> 02:46:08.259
+Dileep Karri: Right? The development workflow underneath, the directory structure that is there, okay, and everything else.
+
+1053
+02:46:10.560 --> 02:46:35.559
+Dileep Karri: Okay? So, it has interpreted this very well, and then tried to build everything, etc. And, it, we created a design.md also. How we did that? We used the SuperDesign Chrome extension, went to a website whose component we liked, copied the component code, so that it has all the knowledge that is required to reverse engineer the design
+
+1054
+02:46:35.560 --> 02:46:36.290
+Dileep Karri: system.
+
+1055
+02:46:36.790 --> 02:46:43.249
+Dileep Karri: So that was created as a design.md file. That is, the color palette, the text colors.
+
+1056
+02:46:44.580 --> 02:46:49.130
+Dileep Karri: You know, the accent colors, button colors, typography.
+
+1057
+02:46:49.750 --> 02:46:54.629
+Dileep Karri: Right? I don't even know what it means, but something exists.
+
+1058
+02:46:55.710 --> 02:47:03.479
+Dileep Karri: Right? Typography, components, button variants, social proof block, everything it has built the complete design system.
+
+1059
+02:47:04.840 --> 02:47:20.950
+Dileep Karri: Then, I kind of figured out what are the features for my newsletter content calendar tool, what is required. That also specification, I built it via Claude Co-work, which is a front-end version of Claude Claude itself.
+
+1060
+02:47:21.390 --> 02:47:32.380
+Dileep Karri: I gave it as a feature, and told to start building, and then there were some permissions, like, can I run this command, can I run that command, can I do this, can I do that? Most often, I told yes.
+
+1061
+02:47:33.260 --> 02:47:39.059
+Dileep Karri: Okay? Two reasons. One thing is I don't even understand what it is meant for, so I had to kind of…
+
+1062
+02:47:39.420 --> 02:47:42.679
+Dileep Karri: You know, give it permissions.
+
+1063
+02:47:42.790 --> 02:47:48.609
+Dileep Karri: Only thing is, I made sure that it is not deleting the files. I just did that.
+
+1064
+02:47:48.650 --> 02:48:02.849
+Dileep Karri: Then, it asked for the API key, I figured out that I didn't have the API key for OpenAI, I had for OpenRouter, then I made the changes back on it, and the complete code is now ready for usage.
+
+1065
+02:48:05.320 --> 02:48:21.710
+Dileep Karri: Okay? So, in .cloud, anything, right, this cloud.md becomes the, you know, the very important file, and as you keep adding more features, say that regularly you should update, the clod.md.
+
+1066
+02:48:23.180 --> 02:48:32.589
+Dileep Karri: Okay? One mistake I had done was I cleared the context before building, and that's why maybe this step of, you know, creating the tasks was skipped.
+
+1067
+02:48:32.810 --> 02:48:37.379
+Dileep Karri: It tried to kind of reinterpret the tasks and build it separately.
+
+1068
+02:48:39.300 --> 02:48:56.210
+Dileep Karri: Okay? So, this is the complete process that we have gone through. Spreadsheet also, I think I have shared it on the chat, right? You can, take the spreadsheet. And, yeah, so that's about today's session. We'll quickly go through the Q&A.
+
+1069
+02:49:03.150 --> 02:49:10.839
+Dileep Karri: Yes, Uday Kumar, I think this is exactly what we have done. Spec-driven development, then, everything else overall.
+
+1070
+02:49:17.410 --> 02:49:32.060
+Dileep Karri: Okay, homework, all that… okay, I'll give you the homework, everybody. The homework is, you will have to think of whatever you are building, right? You guys are all building something, or thinking of building something. What is that lead generation tool?
+
+1071
+02:49:32.320 --> 02:49:35.750
+Dileep Karri: That you can build for whatever you are building.
+
+1072
+02:49:36.180 --> 02:49:45.499
+Dileep Karri: Okay? First, have the idea. I'm not expecting you to build it out completely. Some of you can build it out great, but at least have the idea for that.
+
+1073
+02:49:47.830 --> 02:50:02.279
+Dileep Karri: NAT and interaction with Cloud Code, I will show it next time. I thought I'll show it today, but it is a little involved already. I know some people's brains are fried, so I want to allow you to recuperate. I will definitely show it in the next session, on how I can connect N80 to Cloud Code.
+
+1074
+02:50:04.290 --> 02:50:14.639
+Dileep Karri: Cursor really needed, not required. Today, I didn't touch cursor at all. I just showed that for some people who are already working with cursor, you can use Claude Code.
+
+1075
+02:50:17.700 --> 02:50:18.560
+Dileep Karri: Okay?
+
+1076
+02:50:20.440 --> 02:50:21.340
+Dileep Karri: Mixed.
+
+1077
+02:50:22.190 --> 02:50:31.740
+Dileep Karri: For making such types of lead magnets, is it a better choice to go with Cloud Code or stick to cursor? Anything is fine, okay? So you don't have to really worry about what is the tool.
+
+1078
+02:50:31.930 --> 02:50:42.980
+Dileep Karri: Right? You just have to understand, okay, how do I… what is it that I want to build? See, irrespective of where you build, it is okay. Right? I built it in Cloud Z.
+
+1079
+02:50:43.340 --> 02:50:44.669
+Dileep Karri: How do I put it?
+
+1080
+02:50:45.270 --> 02:50:47.520
+Dileep Karri: I want to go to…
+
+1081
+02:50:47.980 --> 02:50:53.959
+Dileep Karri: say, Delhi, right? I can go by flight, I can go by train, I can go by walking also.
+
+1082
+02:50:54.920 --> 02:50:57.530
+Dileep Karri: Right? Now, you have to choose which way you want to go.
+
+1083
+02:50:58.100 --> 02:51:03.499
+Dileep Karri: And flight, also, I can go by multiple flight options. I can go by Indigo and not go itself.
+
+1084
+02:51:03.660 --> 02:51:16.989
+Dileep Karri: Okay? If anybody's from Indigo, apologies, I know, bad joke, but right. Okay? For people internationally, for context, we had a great incident with Indigo, wherein it did not fly for almost 3-4 days.
+
+1085
+02:51:17.420 --> 02:51:34.980
+Dileep Karri: All right? So, yeah. How do you build agents and when to use agents for developments like this? Next session, I'm going to talk about how do you build Cloud agents. So, I could not talk about Cloud agents in Cloud Code. How do you build Cloud Agents? We will take it up in the next session. Today was Cloud Code 101.
+
+1086
+02:51:35.040 --> 02:51:46.480
+Dileep Karri: What I suggest is please go through the recording at least once or twice after you get it, so that people who did not understand, you can revise the material, because the next session is going to be a little bit more complex.
+
+1087
+02:51:47.500 --> 02:51:57.569
+Dileep Karri: Okay? Where we go into skills, we'll try to connect MCP servers, we'll try to connect with NATON, and we'll also try to build agents and sub-agents inside Cloud.
+
+1088
+02:51:59.440 --> 02:52:10.769
+Dileep Karri: Okay? Thresholds you recommend for switching to a more powerful system, wipe coding with Bolt, advanced code with cursor anti-gravity, or serious AI enhanced coding.
+
+1089
+02:52:11.880 --> 02:52:17.240
+Dileep Karri: So… My, suggestion would be
+
+1090
+02:52:17.580 --> 02:52:26.810
+Dileep Karri: the very V1 version, you can go with VIP coding. The basic V1 version, you know…
+
+1091
+02:52:28.060 --> 02:52:32.930
+Dileep Karri: The basic V1 version, you need the proper wipe coding.
+
+1092
+02:52:33.990 --> 02:52:39.669
+Dileep Karri: Okay? Then I download the code from the VIP coding tool, and continue development from Cursor.
+
+1093
+02:52:40.460 --> 02:52:50.170
+Dileep Karri: Okay, that is how I see people build. So you… that way, what happens is, initial part, you don't break your head by going into some other steps.
+
+1094
+02:52:50.700 --> 02:53:00.709
+Dileep Karri: But, the later part, you can build it over there. Plus, see, if you're using anti-gravity, right, it gives you generous rate limits if you're on the paid Gemini plan.
+
+1095
+02:53:01.200 --> 02:53:11.619
+Dileep Karri: So, it depends on which tool you are using. So, if you're on Gemini AI Pro, anti-gravity gives you great limits. So, it depends on where you have the sufficient limits.
+
+1096
+02:53:11.870 --> 02:53:20.730
+Dileep Karri: And try to work from there. See, cursor and… I'm sorry, every time when I say anti-gravity, windsurf comes, because anti-gravity equal to windsurf…
+
+1097
+02:53:21.000 --> 02:53:25.580
+Dileep Karri: earlier version, okay? So, they… it's a great product.
+
+1098
+02:53:25.800 --> 02:53:31.090
+Dileep Karri: Alright? The only reason I still go with, cursor is familiarity.
+
+1099
+02:53:31.870 --> 02:53:42.150
+Dileep Karri: I'm getting familiar with anti-gravity. Once I get that familiarity with anti-gravity also, I will switch completely to anti-gravity. In fact, Outskills engineering team has shifted to anti-gravity from cursor.
+
+1100
+02:53:43.670 --> 02:53:46.090
+Dileep Karri: Why? Because of its bundling plan.
+
+1101
+02:53:46.550 --> 02:53:52.289
+Dileep Karri: Because of the bundling plan, they give a lot of rate limits when you are in the Google business plan.
+
+1102
+02:53:53.730 --> 02:53:57.560
+Dileep Karri: Okay, so that's why I'm bullish on Google winning this game.
+
+1103
+02:54:00.710 --> 02:54:12.810
+Dileep Karri: Okay? Can this be used for AI filmmaking? Yes. So, there is something called, remotion, which… where you can actually build videos via vibe coding.
+
+1104
+02:54:13.450 --> 02:54:34.309
+Dileep Karri: Okay, so I can make a video completely by VIP coding. I'll give you a demonstration next week of how to do that. For that, I need to explain the concept of skills. So first, we'll learn skills, then we'll learn how to build a skill, then we'll integrate an existing skill, like video creation skill, and then we'll create videos via cloud code.
+
+1105
+02:54:36.680 --> 02:54:37.940
+Dileep Karri: Okay?
+
+1106
+02:54:37.940 --> 02:54:57.109
+Dileep Karri: OpenCode, what was the context we discussed about open code? That is a, alternative tool, to Cloud Code. If people are a little bit worried about Cloud Code, you can… you install open code, and with open code, you can, kind of, you know, with the open code, you can, integrate the API key.
+
+1107
+02:54:59.150 --> 02:55:00.110
+Dileep Karri: Okay?
+
+1108
+02:55:00.380 --> 02:55:07.910
+Dileep Karri: could not find extension pattern anti-gravity, can I use Claude Code? So, just have to go to Help, search extensions.
+
+1109
+02:55:07.910 --> 02:55:23.540
+Dileep Karri: Click, extensions and search there for Claude Code. It will not come on the top, it is coming on the bottom. So, I don't know why. For cursor, it came right at the top, but for anti-gravity, it came almost at the bottom. You just have to scroll a bit on the bottom. You'll get that.
+
+1110
+02:55:25.930 --> 02:55:30.500
+Dileep Karri: document describing the entire process, don't worry, transcript is there.
+
+1111
+02:55:30.500 --> 02:55:53.880
+Dileep Karri: Right? Nitya, just attach the transcript also for today's session to everybody, so that the transcript, people can upload to their LLM and ask questions, and if they want a document describing the entire process, even if I were to build it, I will upload the transcript and say, build the entire process, right? Any other questions you want, you can keep asking the same.
+
+1112
+02:55:55.890 --> 02:56:08.079
+Dileep Karri: Okay, do you have any strategies or frameworks which can be used for better project development? Today, I talked about one. Next session, towards the end, if people are not brain-fried, I will show others.
+
+1113
+02:56:09.410 --> 02:56:10.380
+Dileep Karri: Okay?
+
+1114
+02:56:11.130 --> 02:56:25.519
+Dileep Karri: Because those are little involved in the setup, it is scary. So today, I tried to keep it as non-scary as possible. Okay? Today's session I have done is the most non-scary version type I try to do.
+
+1115
+02:56:26.330 --> 02:56:33.810
+Dileep Karri: Okay, it's a very tough thing to do, right? Terminals, explanations, etc. Try to go as non-scary as possible.
+
+1116
+02:56:34.910 --> 02:56:42.459
+Dileep Karri: Alright, share more Git repos from GitHub that can help us develop our own projects. First, I would suggest you to start from spec-driven.
+
+1117
+02:56:42.560 --> 02:56:59.049
+Dileep Karri: There are few more approaches, but that approaches are a little more involved. Maybe in some… after a few more sessions, maybe, I can share it at least on the WhatsApp group or otherwise, because those are… if you thought today was Brain Fry, that is Brain Fry Square.
+
+1118
+02:56:59.350 --> 02:57:03.220
+Dileep Karri: Because when I saw the workflow for the first time, my brain got fried.
+
+1119
+02:57:03.560 --> 02:57:13.799
+Dileep Karri: So first, I have to think about how I can show it to people without, you know, kind of frying their brains, and then pick it from there.
+
+1120
+02:57:16.010 --> 02:57:35.469
+Dileep Karri: Okay? To get more such product or solution building ideas, can you suggest sources to refer? Reddit is one. One place I can tell you is go to Ideaabrowser.com. That is a tool built by Greg Eisenberg, lot of ideas. Recently, I came across this. Let me share my screen.
+
+1121
+02:57:37.310 --> 02:57:45.189
+Dileep Karri: No, no, okay. Nitya, can you just open a tab and go to lootrop.io? Just open a new tab.
+
+1122
+02:57:47.680 --> 02:57:52.090
+Dileep Karri: LootDrop.io. L-O-O-T-D-R-O-P.
+
+1123
+02:57:53.620 --> 02:57:54.800
+Dileep Karri: dot IO.
+
+1124
+02:57:55.450 --> 02:57:56.170
+Dileep Karri: Yeah.
+
+1125
+02:57:57.110 --> 02:57:59.490
+Dileep Karri: I just, search for load drop.
+
+1126
+02:58:00.050 --> 02:58:04.049
+Dileep Karri: On lootrop.dev, I forget the extension, just search for loot drop.
+
+1127
+02:58:05.030 --> 02:58:06.950
+Dileep Karri: Yes, first link, first link.
+
+1128
+02:58:08.880 --> 02:58:14.280
+Dileep Karri: There you go. So, what it does is, if you can scroll down, Nitya, just scroll down a little bit.
+
+1129
+02:58:14.400 --> 02:58:15.510
+Dileep Karri: More, more?
+
+1130
+02:58:20.820 --> 02:58:31.300
+Dileep Karri: Right? So, what it shows is, it shows you multiple tools which have failed after funding, but it was because it was in 2015
+
+1131
+02:58:31.700 --> 02:58:37.689
+Dileep Karri: 2019, etc. Now, if you try to rebuild with AI, there is a great chance to succeed.
+
+1132
+02:58:38.430 --> 02:58:42.449
+Dileep Karri: So, thousand such failed startups, along with
+
+1133
+02:58:42.580 --> 02:58:48.129
+Dileep Karri: I think if you can just, go scroll down, and,
+
+1134
+02:58:49.840 --> 02:58:52.929
+Dileep Karri: Yeah, can you go up? Can you go up a little bit?
+
+1135
+02:58:53.310 --> 02:58:55.740
+Dileep Karri: Yeah, can you click on Ring Daddy?
+
+1136
+02:58:57.710 --> 02:59:00.090
+Dileep Karri: I'll just, click, just click it, yeah.
+
+1137
+02:59:00.310 --> 02:59:14.980
+Dileep Karri: So if you scroll down in Ring Daddy, right, it tells you about rebuild difficulty, it is easy, scalability is moderate, and you scroll down, it tells you why it died in the first place, what were the mistakes they made, why it died. And as you scroll down a little bit more.
+
+1138
+02:59:16.710 --> 02:59:19.290
+Dileep Karri: Right? A little bit more.
+
+1139
+02:59:19.480 --> 02:59:21.079
+Dileep Karri: To the… towards the end.
+
+1140
+02:59:22.490 --> 02:59:31.090
+Dileep Karri: Okay? It'll tell you an execution plan that is possible with today's infra, and what is the strategy you can go ahead with that.
+
+1141
+02:59:32.170 --> 02:59:44.000
+Dileep Karri: Okay, so for a failed startup, how you can rethink the startup, it'll give you some ideas, and these ideas you can take and further interpret, break it down, and think about how you can build stuff.
+
+1142
+02:59:45.790 --> 02:59:51.260
+Dileep Karri: Okay? So, you can look at this thing called loot-drop.io.
+
+1143
+02:59:52.000 --> 02:59:54.209
+Dileep Karri: Okay, you can go back to the questions.
+
+1144
+02:59:58.430 --> 03:00:14.380
+Dileep Karri: Okay? For a non-technical beginner starting with cursor, could you please advise if I continue using cursor before jumping into Cloud Code? I think both are similar learning curve. I would suggest you to try both and see what works for you, okay? Both are easy.
+
+1145
+03:00:14.470 --> 03:00:20.729
+Dileep Karri: As in, the learning curve is steep, but once you get used to it, right, it becomes very, very good.
+
+1146
+03:00:20.890 --> 03:00:28.310
+Dileep Karri: Okay? So, initial pain is going to be there, but afterwards, once you get a little bit comfortable, it becomes a breeze working with that.
+
+1147
+03:00:29.560 --> 03:00:39.150
+Dileep Karri: What if I've got NA10 workflows which I want to attach to my landing page that I want to build in Cloud Code? You can connect NA10 workflows with Cloud Code also. It is pretty straightforward.
+
+1148
+03:00:42.610 --> 03:00:57.759
+Dileep Karri: Based on your experience with cursor, how many such lead project, magnet projects we can make, and in Cloud Code, how many such we can make? To be very frank, I cannot tell that. It's hard for me to estimate, because it depends on the complexity of the project also.
+
+1149
+03:00:58.210 --> 03:01:09.209
+Dileep Karri: Okay, so it is hard for me to estimate. I will say, don't worry about it, build as many as you want. When you reach the limit, wait till it resets, or buy extra crates and continue building. Don't…
+
+1150
+03:01:09.310 --> 03:01:17.889
+Dileep Karri: ever restrict yourself by saying, I have only this subscription, I will build only through this. Find your need, and try to continue building overall.
+
+1151
+03:01:18.740 --> 03:01:24.849
+Dileep Karri: Okay? How would, Ryan's stock tank process differ, etc.
+
+1152
+03:01:25.380 --> 03:01:27.599
+Dileep Karri: All that. So, basically, what's not,
+
+1153
+03:01:28.050 --> 03:01:42.980
+Dileep Karri: Ryan's process is, he's interpreting the product manager who writes the PRD and writes user stories, if you know what I mean. So basically, in development, people write user stories, and each user story is assigned to a different engineer.
+
+1154
+03:01:43.400 --> 03:01:55.570
+Dileep Karri: Okay, so every engineer develops a user story, and then everything is integrated into the main product. Somebody does a review to see if that thing was done properly or not, or integrated properly or not.
+
+1155
+03:01:55.570 --> 03:02:10.120
+Dileep Karri: So that process was actually conceived and converted into a Markdown document, and he has found that it worked very well, and when other people also tried it out, you can check the repository, almost 5,000 people tried that process.
+
+1156
+03:02:10.790 --> 03:02:13.180
+Dileep Karri: Right? And that's why it is pretty good.
+
+1157
+03:02:13.540 --> 03:02:29.740
+Dileep Karri: What is the point of using Claude Code inside Cursor as against Anthropic AI in cursor directly? Again, Claude Code is a sophisticated thing which can recover from errors very well, etc. So, in a way, Claude Code is competing with cursor itself.
+
+1158
+03:02:30.990 --> 03:02:41.149
+Dileep Karri: Okay? So, I felt it was a better tool. You saw how Cowork is, you saw how Cloud Code is, and I'm very sure that it is going to get even better.
+
+1159
+03:02:41.250 --> 03:02:51.700
+Dileep Karri: Because the core models are better with coding, and they have orchestrated it very well, so I feel that, you know, cloud code… how do I put it?
+
+1160
+03:02:51.930 --> 03:02:54.530
+Dileep Karri: Both are… sculptors.
+
+1161
+03:02:54.670 --> 03:03:11.330
+Dileep Karri: Okay? I find Clodko to be a more refined sculptor who gets me than everything. It's like a… I can't put my finger on it, right? For example, if you ask me, why do I prefer, say, this particular coffee over other coffee? It's a matter of taste.
+
+1162
+03:03:11.850 --> 03:03:14.850
+Dileep Karri: So, I am biased, okay? I'm telling you I am biased.
+
+1163
+03:03:15.480 --> 03:03:32.690
+Dileep Karri: towards Cloud Code, because I have used it extensively, and I really like it, and when I'm trying multiple workflows, I find that Claude Code is faster in adopting my workflow. For example, the same workflow when I tried it in Cursor, it took me 40 minutes.
+
+1164
+03:03:34.770 --> 03:03:46.240
+Dileep Karri: Okay, but whereas Cloud Code took me 10 minutes, when I did it for the very first time. So, because parallel agents were working, etc, and all that, so Cloud Code is powerful that way.
+
+1165
+03:03:48.020 --> 03:04:00.110
+Dileep Karri: I have my lovable, developed app code in GitHub. Can I please explain how I can optimize it and improve using call-out code in any of your sessions? Very simple, you don't require a session, I'll tell you right away how to do that.
+
+1166
+03:04:00.210 --> 03:04:14.129
+Dileep Karri: Download the lovable app code, you have it in GitHub, right? You know, easier way, if you're a non-technical person, download the code, and in that folder, start off Cloud Code, and say first.
+
+1167
+03:04:14.240 --> 03:04:31.690
+Dileep Karri: look at the existing documentation, and sorry, existing code, and build the architecture and the structure, step one. Step two, tell it to look at the code and see if there are any problems, how can I make it better? Before doing that, explain very clearly what that app is supposed to do.
+
+1168
+03:04:32.280 --> 03:04:40.790
+Dileep Karri: So then Cloud Code will work on it, will present you a plan on how to improve the code further, and then further you can improve that code as it goes along.
+
+1169
+03:04:42.700 --> 03:04:43.690
+Dileep Karri: Okay?
+
+1170
+03:04:44.530 --> 03:04:45.260
+Dileep Karri: Cool.
+
+1171
+03:04:47.030 --> 03:05:00.069
+Dileep Karri: All right, then. Awesome, guys. Really glad meeting you after some time. I hope it was worth it. Came back with something pretty cool and tried to show some things new to you overall, and
+
+1172
+03:05:01.270 --> 03:05:02.200
+Dileep Karri: Yeah.
+
+1173
+03:05:03.450 --> 03:05:09.579
+Dileep Karri: Debocking, Lipsa, I don't understand what you mean by de-blocking. Okay,
+
+1174
+03:05:12.320 --> 03:05:21.730
+Dileep Karri: I don't understand the question overall, but if you can just… I'll stay for one more minute, if you can just clarify on the chat, I will try to explain.
+
+1175
+03:05:28.860 --> 03:05:44.980
+Dileep Karri: Okay, plot blocking, there is nothing we can do there, Lipsa, other than saying go for a higher plan, because if you are on a pre-plan, it is lesser. On a paid plan, also, it doesn't tell of you too many things, because as I said, it is going on the enterprise.
+
+1176
+03:05:44.980 --> 03:06:00.429
+Dileep Karri: Unfortunately, to make it work better, you have to go for paying a bit of a money there overall. If you are worried about that, I think Gemini 3 Pro is also pretty good. You can switch it over there.
+
+1177
+03:06:01.370 --> 03:06:08.120
+Dileep Karri: When using cursor and cloud code, do we need both subscription? Yes. Unfortunately, yes, you need both the subscription.
+
+1178
+03:06:16.110 --> 03:06:17.930
+Dileep Karri: Alright then, thanks folks!
+
+1179
+03:06:18.550 --> 03:06:20.590
+Dileep Karri: See you all, and
+
+1180
+03:06:20.880 --> 03:06:30.950
+Dileep Karri: We will meet in the next session, and we will try to go a bunch of stuff. Please don't get scared. If your brain is fried, cool it down, revise this thing, and we will come back.
+
+1181
+03:06:31.700 --> 03:06:32.470
+Dileep Karri: Okay.
+
+1182
+03:06:34.840 --> 03:06:36.329
+Dileep Karri: Cool. See you guys!
+
