@@ -7,7 +7,7 @@ The `outskill-claude-expert` skill acts as an advanced AI automation architect. 
 
 ### Installation  
 You can install this skill directly into Claude Code using the `skills.sh` registry:  
-`npx skills add <your-github-username>/outskill-claude-resources --skill outskill-claude-expert`
+`npx skills add prakharmishra2026/outskill-claude-resources --skill outskill-claude-expert`
 
 ## 📚 Outskill Documentation & Resources  
 Inside the `docs/` folder, you will find supplementary materials to master Claude Code and Agentic workflows:  
