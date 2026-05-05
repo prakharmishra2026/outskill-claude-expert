@@ -1,6 +1,15 @@
 ---
 name: outskill-claude-expert
 description: Advanced AI automation architect skill bridging Outskill Masterclass methodologies, Snarktank PRD frameworks, and Model Context Protocol (MCP) integrations.
+version: 1.0.0
+author: "Prakhar Mishra"
+tags:
+  - claude-code
+  - spec-driven-development
+  - outskill
+  - snarktank
+  - mcp
+license: MIT
 ---
 
 <skill>
