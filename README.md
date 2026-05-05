@@ -1,7 +1,6 @@
 # 🧠 Outskill Claude Expert
 
-> A powerful, pre-configured skill for Claude Code that acts as your claude code guide as sson as you start a new project just like any outskill trainer. It is built on Outskill methodologies,resources, Snarktank PRD frameworks, and MCP workflows.
-
+> A Claude Code skill for spec-driven development using Outskill workflows, teachings & resources, Snarktank PRD frameworks, and MCP workflows.
 ---
 
 ## 🎯 What Does This Do?
